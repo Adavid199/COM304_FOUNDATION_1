@@ -4,6 +4,8 @@
 
 ## Topics covered
 *What topics were covered in this session*
+creating a project plan
+installing raspberry pi
 
 
 
