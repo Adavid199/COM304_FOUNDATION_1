@@ -4,15 +4,15 @@
 
 ## Topics covered
 *What topics were covered in this session*
-creating a project plan
-History of computing
-introduction to computer architecture
-binary,byte and boolen algebra
-looking at memoory in a pi
-internet history
-introduction to computer language, c language ,javascript/node red
-microproccesor  architecture
-installing raspberry pi
+creating a project plan,
+History of computing,
+introduction to computer architecture,
+binary,byte and boolen algebra,
+looking at memoory in a pi,
+internet history,
+introduction to computer language, c language ,javascript/node red,
+microproccesor  architecture,
+installing raspberry pi,
 
 
 
