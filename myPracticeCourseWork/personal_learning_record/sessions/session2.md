@@ -5,7 +5,7 @@
 ## Topics covered
 *What topics were covered in this session*
 Introducing Computer Architecture.
-Bnary Arithmetic
+Bnary Arithmetic.
 Boolean Algebra.
 Binary and boolean.
 
