@@ -26,7 +26,7 @@ This session is to give you a broad introduction to computing using real world a
 *What exercises did you complete. What results. Screen shots and notes*
  Getting started with git
 
- Git is a tool invented by linus Torvalds for version controlling and collaboratively working on large projects such as the linux kernal.
+ Git is a tool invented by linus Torvalds for version controlling, and collaboratively working on large projects such as the linux kernal.
  Github is a web site,now owned by microsoft,which many programmers and organisations use to host their code.in addition to simply hosting the code in git, GIThub also provides many tools which can support the develops process of large team. These include project documentation and project planning tools, package release hosting,web site hosting,issue and pull request management github flow and CI/CD tools using github automations.
 
 
@@ -34,6 +34,6 @@ This session is to give you a broad introduction to computing using real world a
 ## Summary of learning
 *What did you learn through these exercises*
 Understanding basic concepts,terms and appropriate technologies for computer computer system.
- Carry out technical instuction to build,run and troubleshoot computer systems
+ Carry out technical instuction to build,run and troubleshoot computer systems.
  To carry out work independently and as part of team.
  Select appropraite hardware/sofeware technology to solve computing related problems.
