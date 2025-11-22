@@ -8,7 +8,29 @@
 To replace all fixed office PCs with a hot desk solution, enabling flexible workspace usage, reducing costs, and improving employee mobility while aligning with modern workplace trends.The current office setup assigns each employee a dedicated PC and workstation. While this model has historically provided stability, it now presents several challenges.Limited flexibility Employees are tied to a single desk, reducing opportunities for collaboration and agile working.High costs Maintaining individual PCs increases hardware, licensing, and IT support expenses.
 .Mismatch with hybrid work With many employees working remotely part-time, dedicated PCs often sit idle, wasting resources.
 
+Pilot Program:
+Launch in one department to test workflows, desk booking systems, and IT infrastructure.
 
+Feedback Collection:
+Gather employee input on usability, productivity, and satisfaction.
+Adjust policies and infrastructure based on feedback.
+
+Phased Rollout:
+Expand gradually across departments, ensuring minimal disruption.
+
+Training & Support:
+Provide workshops and guides on using hot desks, logging in securely, and accessing cloud resources.
+
+Monitoring & Evaluation:
+Track usage rates, employee satisfaction, and cost savings.
+Adjust desk numbers and layouts as needed.
+
+Strategic Impact
+Positions the organization as a modern, agile workplace.
+Enhances employee collaboration and mobility.
+Reduces long-term operational costs while improving sustainability.
+
+Aligns with industry best practices for hybrid and flexible working.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
