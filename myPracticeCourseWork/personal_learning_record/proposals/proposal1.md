@@ -52,7 +52,30 @@ Security: Authentication tools protect shared devices.
 
 
 
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+*Which class sessions and personal research refers to technology in this proposal. Link to examples.
+Technology focus: What tech was covered (e.g., VDI, SSO, desk bookin) 
+
+Key takeaway: One sentence connecting the session to your proposal,Example link: Lecture slides, demo, or lab
+notes
+
+Label: Source title and type (article, whitepaper, case study)
+
+Technology focus: What it validates (e.g., adoption rates, energy savings, authentication)
+Insight: One concrete finding you used
+
+Example link: Source or summary note
+
+Insight: Demonstrated 20–30% space reduction with managed hot‑desking
+
+VDI/cloud desktops: Which session demonstrated user profiles following logins across devices? Which research validated performance and cost trade‑offs?
+
+Desk booking systems: Where did you cover occupancy analytics or space planning? Any case studies on adoption in hybrid teams?
+
+Authentication/SSO: Which lab implemented MFA or smart cards? Any security benchmarks you cited?
+
+Collaboration platforms: What session linked Teams/Slack to flexible seating? Any studies on productivity impact?
+
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
