@@ -5,6 +5,10 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+To replace all fixed office PCs with a hot desk solution, enabling flexible workspace usage, reducing costs, and improving employee mobility while aligning with modern workplace trends.The current office setup assigns each employee a dedicated PC and workstation. While this model has historically provided stability, it now presents several challenges.Limited flexibility Employees are tied to a single desk, reducing opportunities for collaboration and agile working.High costs Maintaining individual PCs increases hardware, licensing, and IT support expenses.
+.Mismatch with hybrid work With many employees working remotely part-time, dedicated PCs often sit idle, wasting resources.
+
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
