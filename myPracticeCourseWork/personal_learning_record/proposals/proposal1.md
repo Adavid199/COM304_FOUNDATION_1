@@ -32,6 +32,18 @@ Reduces long-term operational costs while improving sustainability.
 
 Aligns with industry best practices for hybrid and flexible working.
 ## Technologies and research relevant to this proposal
+🔧 Technologies:
+Cloud services & virtual desktops – since hot desking requires employees to log in from any workstation, cloud-based applications and virtual desktop infrastructure (VDI) are essential.
+
+Desk booking systems – software that allows staff to reserve desks in advance, ensuring availability and reducing conflicts.Authentication tools – single sign-on, smart cards, or biometric systems to make logging in at shared desks secure and efficient.
+
+Authentication tools – single sign-on, smart cards, or biometric systems to make logging in at shared desks secure and efficient.
+
+Collaboration platforms – tools like Microsoft Teams or Zoom that support mobility and flexible working.
+
+
+
+
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 ## Initial Analysis of the Proposal
