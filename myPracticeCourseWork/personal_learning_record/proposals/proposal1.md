@@ -41,6 +41,14 @@ Authentication tools – single sign-on, smart cards, or biometric systems to ma
 
 Collaboration platforms – tools like Microsoft Teams or Zoom that support mobility and flexible working.
 
+Cost efficiency: These technologies reduce the need for dedicated hardware and idle PCs, supporting the proposal’s aim of lowering expenses.
+
+Space Utilization Studies: Workplace research shows that in hybrid offices, 40–60% of desks sit unused daily. Hot‑desking supported by booking systems can cut real estate needs by up to 30%.
+
+Energy Efficiency Research: Studies highlight that reducing idle PCs and shifting workloads to cloud infrastructure lowers energy consumption and carbon footprint.
+
+Sustainability: Lower energy use supports corporate responsibility and environmental targets.
+Security: Authentication tools protect shared devices.
 
 
 
