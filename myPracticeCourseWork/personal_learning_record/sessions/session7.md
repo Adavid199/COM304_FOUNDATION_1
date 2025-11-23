@@ -35,7 +35,6 @@ CPUlator & Raspberry Pi labs	Low‑level troubleshooting, performance	Source cod
 Personal research: Cloud desktop case study	Azure Virtual Desktop feasibility	Link to industry whitepaper or article
 Personal research: Hot‑desking adoption	Booking systems.
 
-Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
 
 
 
@@ -56,6 +55,7 @@ User management: Supports multi‑user environments by isolating user data and c
 
 “File Systems and Security” refers to how Linux organises files and enforces access control through permissions. It is a foundational concept in operating systems, directly tied to system stability, user management, and the secure deployment of services like those described in the proposal.
 
+Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
 
 
 
