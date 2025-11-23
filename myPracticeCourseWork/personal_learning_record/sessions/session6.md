@@ -28,15 +28,13 @@ Translate concepts between levels by writing the same routines in Assembly and C
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 hot‑desking + cloud‑desktop proposal demonstrate those connections.
 
-This section maps specific class sessions and your personal research items to the technologies used in the hot‑desking + cloud desktop proposal, showing where the evidence and practical skills supporting each technology come from.
+This section maps specific class sessions and your personal research items to the technologies used in the hot‑desking + cloud desktop proposal, showing where the evidence and practical skills supporting each technology come from.Performance awareness: Students learn how instruction choices and I/O patterns affect latency and CPU load, informing capacity planning and app compatibility testing for virtual desktops.
 
-
-
-Cloud hosts and VDI backends Skills: building and administering Linux VMs, package management, service control, and logs. Relevance: these are the operational fundamentals for running VDI brokers, session hosts, or cloud desktop images
+.
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+*What exercises did you complete. What results. Screen shots and notes*Use artifacts from these sessions (scripts, test logs, build pipeli
 
 
 
