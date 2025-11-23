@@ -91,6 +91,41 @@ Success relies on reliable identity management, network capacity, and clear work
 
 ### SWOT Analysis
 *You can use html tables in markdown*
+Strengths
+Alignment with strategy: Supports hybrid working, cost reduction, and sustainability goals described elsewhere on the page.
+
+Centralized control: Cloud/VDI and identity services enable consistent environments, simplified patching, and easier policy enforcement.
+
+Space efficiency: Evidence cited on the page about underused desks translates into immediate real‑estate and utility savings.
+
+Scalable platform: Cloud infrastructure allows capacity scaling for peak demand and phased rollouts described in the pilot plan.
+
+Weaknesses
+Dependence on network and cloud: Proposal’s success hinges on reliable WAN/ISP links and sufficient cloud sizing noted in the technical feasibility section.
+
+User friction risks: Loss of personalization, login complexity, and “desk anxiety” from the employee experience analysis.
+
+Upfront costs: Licensing for VDI/booking systems, identity upgrades, and change‑management investments flagged under cost considerations.
+
+Application compatibility: Some legacy or high‑performance apps may not work smoothly in VDI as identified in risks.
+
+Opportunities
+Operational savings: Right‑sizing office footprint and retiring hardware accelerate ROI referenced in the cost/value section.
+
+Improved collaboration: Flexible seating plus unified collaboration platforms can increase cross‑team interaction described in earlier benefits.
+
+Sustainability gains: Lower energy use and reduced hardware lifecycle impacts support corporate ESG objectives noted on the page.
+
+Modernization momentum: A successful pilot creates a blueprint for broader digital transformation and future services (device-as-a-service, deeper analytics).
+
+Threats
+Security and compliance lapses: Misconfigured sessions, weak endpoint hardening, or inadequate logging could expose data—concerns raised in the security section.
+
+Performance and availability issues: Latency or session instability could harm productivity; these technical risks were highlighted in feasibility.
+
+User resistance: Negative employee feedback or low adoption could undermine utilization targets tracked by pilot metrics.
+
+Vendor and licensing complexity: Unexpected costs or restrictive vendor terms could erode the projected savings discussed under investments.
  <table>
   <tr>
     <th>Strength</th>
