@@ -171,6 +171,50 @@ Vendor and licensing complexity: Unexpected costs or restrictive vendor terms co
 
 ### PEST Analysis
 *You can use html tables in markdown*
+PEST analysis for the proposal to replace fixed office PCs with hot‑desking and cloud desktops, using the page’s prior material on technologies, costs, security, employee experience, pilot design, and strategic goals.
+
+The proposal must follow public sector procurement frameworks and any vendor accreditation requirements referenced elsewhere on the page; this affects supplier selection, contracting timelines, and allowed procurement vehicles.
+
+Centralizing desktops and using cloud providers raises data residency, GDPR, and audit‑trail expectations discussed in the security and compliance sections. Policies and contract clauses will be needed to meet those obligations.
+
+Senior stakeholder buy‑in, cross‑department approvals, and alignment with council digital strategy are necessary for the phased rollout and pilot decision gates described on the page.
+
+Capital versus operational cost shifts The page’s cost analysis shows savings from retiring fixed PCs offset by new OPEX such as VDI licenses, cloud compute, and desk‑booking subscriptions; budgeting must reflect that transition.
+
+Real‑estate and utility savings Evidence on underused desks underpins estimates for reduced space requirements and lower utilities, which drive the proposal’s ROI scenarios and pilot metrics.
+
+Vendor and licensing risk The SWOT and cost sections highlight the threat of unexpected licensing complexity or price changes that could alter payback timelines and total cost of ownership.
+
+Budgeting for change management The economic case must include one‑off costs for training, support staffing during rollout, and potential temporary productivity impacts noted in the employee experience analysis.
+
+Workforce acceptance and culture Employee experience material stresses risks such as desk anxiety and loss of personalization; acceptance will depend on UX of booking systems, guaranteed quiet/collab zones, and communications.
+
+Hybrid working behaviours Research cited on the page about hybrid patterns (unused desk rates, peak demand variability) justifies hot‑desking but also calls for flexible policies and zones to match different work styles.
+
+Equity and accessibility Shared workstations must accommodate accessibility needs and role‑based requirements that appear in the pilot scope and application compatibility notes.
+
+Change leadership and training needs Successful adoption requires visible sponsorship, onboarding playbooks, and quick‑help support as described in the change management recommendations.
+
+Network and infrastructure readiness The technical feasibility section flags dependency on WAN capacity, low latency, and cloud sizing; network upgrades or edge caching may be needed before scale rollout.
+
+Identity and security stack Central to the proposal are SSO, MFA, session controls, and endpoint hardening described under security; these technologies enforce compliance and reduce data exposure on shared endpoints.
+
+Application compatibility and performance VDI and cloud desktops must support the organisation’s legacy and high‑performance apps—testing and app rationalization are required as noted in pilot risks.
+
+Operational tooling and analytics Desk booking, occupancy analytics, logging, and monitoring tools referenced on the page enable utilization tracking, capacity planning, and the metrics used for pilot decision gates.
+
+Governance and KPIs Tie PEST items to clear governance checkpoints and KPIs in the phased rollout section so political, budgetary, cultural, and technical issues are validated at each decision gate.
+
+Inform pilot design Use social and technological findings to choose pilot teams, ensure accessibility coverage, and include network and app compatibility tests.
+
+Map risks to actions Convert political and compliance items into contract requirements; translate economic uncertainties into sensitivity scenarios in the business case.
+
+
+
+
+
+
+
 
  <table>
   <tr>
