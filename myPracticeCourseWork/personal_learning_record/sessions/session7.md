@@ -23,10 +23,6 @@ Language Systems” on the GitHub page you’re viewing is part of the Operating
 Proposal relevance: In workplace modernization, understanding language systems helps when deploying cloud desktops or shared endpoints. For example, ensuring the right runtimes are available for business apps, or installing development stacks for technical teams.
 
 
-Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
-
-
-
 
 
 ## Personal Notes and research following this session
@@ -38,6 +34,9 @@ Playing with Linux	Endpoint management, user accounts	Screenshots of process/fil
 CPUlator & Raspberry Pi labs	Low‑level troubleshooting, performance	Source code in Assembly/C and test logs
 Personal research: Cloud desktop case study	Azure Virtual Desktop feasibility	Link to industry whitepaper or article
 Personal research: Hot‑desking adoption	Booking systems.
+
+Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
+
 
 
 These sessions directly connect to proposal technologies like virtualization, cloud desktops, and endpoint management. Your personal research (e.g., industry case studies on hot‑desking adoption or cloud desktop ROI) provides external validation.
