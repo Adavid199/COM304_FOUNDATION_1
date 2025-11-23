@@ -79,6 +79,15 @@ Collaboration platforms: What session linked Teams/Slack to flexible seating? An
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
+This section summarizes how well the proposal—replacing fixed office PCs with hot‑desking and cloud‑based desktops—aligns with the organization’s goals, identifies strengths and gaps, and highlights the key decisions needed to move forward. It draws on the page’s earlier content about technologies, research evidence, costs, security, and employee experience.
+
+The proposal supports hybrid work, cost efficiency, and sustainability by decoupling users from physical machines and optimizing space usage.
+
+Expected improvements in desk utilization, reduced hardware overhead, and more flexible collaboration across teams.
+
+Success relies on reliable identity management, network capacity, and clear workplace policies.
+
+
 
 ### SWOT Analysis
 *You can use html tables in markdown*
