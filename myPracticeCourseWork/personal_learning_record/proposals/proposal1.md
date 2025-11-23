@@ -262,6 +262,24 @@ Map risks to actions Convert political and compliance items into contract requir
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
+Questions about strategic fit
+What organisational goals does this specifically advance — tie to hybrid working, cost reduction, sustainability targets shown on the page.
+
+Which applications are incompatible or require special handling — connect to the application compatibility and testing items in the pilot plan.
+
+What are the OPEX vs CAPEX impacts (VDI licenses, cloud compute, booking subscriptions) and how do they affect the business case — connects to the economic analysis and ROI drivers.
+
+Which procurement vehicles and timelines are required for public sector compliance — relates to political/procurement points in the PEST section.
+
+Who owns go/no‑go decisions and what escalation path or remediation plan exists if KPIs are not met — ties to governance, stakeholder approvals, and decision gates across the page.
+
+Is current network capacity sufficient for VDI peaks and concurrent logins — relates to the feasibility, latency and availability risks on the page.
+
+How will identity be handled (SSO/MFA, smart cards, biometrics) and what is the fallback — maps to the security controls and user friction concerns.
+
+What session and endpoint controls prevent data leakage on shared workstations — ties to recommended hardening, timeouts and policies.
+
+
 * question 1
 * question 2
 
