@@ -22,6 +22,7 @@ Kernel” on the GitHub page you’re viewing introduces one of the most fundame
 Language Systems” on the GitHub page you’re viewing is part of the Operating System Structure section. It refers to how programming languages and their supporting libraries are integrated into a Linux environment, and what is required to run or develop software on such systems.Practical implication for students: If you only have runtime libraries, you can run existing code but not compile new programs. Installing development libraries expands your ability to experiment, build, and extend software.Connection to earlier labs: This ties directly to the CPUlator and Raspberry Pi exercises mentioned earlier—students first write Assembly and C code, then need compilers and development libraries to build and run those programs on real hardware.
 Proposal relevance: In workplace modernization, understanding language systems helps when deploying cloud desktops or shared endpoints. For example, ensuring the right runtimes are available for business apps, or installing development stacks for technical teams.
 
+
 Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
 
 
