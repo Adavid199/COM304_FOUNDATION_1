@@ -23,11 +23,7 @@ Translate concepts between levels by writing the same routines in Assembly and C
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
-hot‑desking + cloud‑desktop proposal demonstrate those connections.
 
-This section maps specific class sessions and your personal research items to the technologies used in the hot‑desking + cloud desktop proposal, showing where the evidence and practical skills supporting each technology come from.Performance awareness: Students learn how instruction choices and I/O patterns affect latency and CPU load, informing capacity planning and app compatibility testing for virtual desktops.
-
-Use artifacts from these sessions (scripts, test logs, build pipelines) as technical evidence that the team can manage low‑level troubleshooting and custom endpoint needs during the pilot.Highlight any Raspberry Pi tests that replicate real application workloads or peripheral use cases relevant to shared workstations to reduce technical risk.
 
 
 .
