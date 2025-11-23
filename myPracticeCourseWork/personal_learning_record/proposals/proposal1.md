@@ -286,3 +286,13 @@ What session and endpoint controls prevent data leakage on shared workstations �
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+judges how well the hot‑desking + cloud desktop proposal meets the organisation’s needs by using the page’s prior analysis (technical feasibility, costs, security, employee experience, pilot design, and governance) as the evidence base.Assess alignment with strategic goals such as hybrid working, cost efficiency, and sustainability described earlier on the page.Validate feasibility and value by comparing technical readiness, estimated costs, and employee impact against the proposal’s objectives.
+
+Strategic fit: degree to which the proposal advances hybrid working and estate optimisation.
+
+Viable with conditions: Conceptually aligned and supported by tech choices (VDI, booking, SSO/MFA) but depends on network and identity maturity described in feasibility.
+
+User experience is a critical dependency: Without simple booking UX, guaranteed zone rules, and strong onboarding, adoption and utilization targets are at risk.
+
+Security/compliance manageable but non‑trivial: Centralized control helps, however session controls, logging, and contractual data‑residency clauses must be explicitly defined.
+
