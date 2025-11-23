@@ -57,3 +57,10 @@ Systems understanding: Helps students grasp concepts like memory‑mapped I/O, b
 
 ## Summary of learning
 *What did you learn through these exercises*
+Writing Assembly and C code in CPUlator showed how instructions execute step by step, how registers change, and how memory is manipulated.Comparing Assembly and C demonstrated how high‑level constructs map to machine instructions.Controlling the seven‑segment display taught how software drives hardware through memory‑mapped I/O.
+
+This reinforced concepts like bitwise operations and device drivers, which are core to operating systems and embedded programming.Exercises bridged theory (OS structure: processes, scheduling, memory management) with practice on simulated and real hardware.
+
+Running code on the Raspberry Pi revealed differences between emulator behaviour and real hardware (timing, I/O, peripheral control).Experience with assemblers, compilers, linkers, and cross‑compilation built practical skills for creating system images and utilities.Inspecting processes, monitoring resources, and reading logs in Linux labs improved your ability to diagnose and resolve issues—directly relevant to managing VDI hosts and shared endpoints in the proposal.It connects classroom learning to workplace modernization: OS fundamentals, low‑level programming, and Linux administration underpin technologies like cloud desktops, virtualization, and endpoint management.
+
+documenting what you learned proves you can apply these skills to real IT modernization challenges (e.g., troubleshooting VDI performance, scripting automation, managing shared devices).
