@@ -63,6 +63,19 @@ Boot System Structure” on the GitHub page you’re viewing is part of the Oper
 “Boot System Structure” refers to the layered process of starting an operating system: firmware (BIOS/IPMI), boot loader (like GRUB), kernel initialization, and service startup. The surrounding page uses Linux and Raspberry Pi examples to show how these steps differ across platforms and why they matter for system management.
 
 
+Key Shell Commands” on the GitHub page you’re viewing is part of the Operating System Structure section. It introduces the practical tools students use to interact with Linux systems via the command line interface (CLI). These commands are foundational for navigating, managing files, monitoring processes, and configuring systems.Security awareness: Commands like ls -all reveal file permissions, tying back to the earlier section on File Systems and Security.System management: Tools like top, ps, and df -h connect directly to operating system concepts such as process scheduling and resource allocation.Proposal relevance: In workplace modernization, knowing these commands supports endpoint troubleshooting, automation scripts, and secure configuration of shared or virtual desktops.
+
+“Key Shell Commands” refers to the essential Linux terminal commands highlighted on the page. They provide hands‑on experience with navigating the file system, managing processes, editing files, and configuring network settings—skills that reinforce the operating system concepts discussed earlier and prepare you for real system administration tasks.
+
+“Package Management” on the GitHub page you’re viewing is part of the Operating System Structure section. It refers to one of the most important functions of modern operating systems: the ability to install, update, and remove software in a controlled way using package managers.Package management is the system that handles software distribution, installation, and maintenance.A package is a bundle containing the program itself plus metadata (dependencies, version, configuration).Managers: Tools like apt (Debian/Ubuntu) or yum/dnf (Fedora/Red Hat) automate the process of fetching, verifying, and installing packages.Repositories: Packages are stored in central repositories, ensuring consistency and security.The page highlights that package management is a key function of operating systems, allowing users to add or remove programs that run on top of the OS services.It introduces an exercise: installing the Apache 2 web server on a Raspberry Pi using package management tools.System integration: Package management ensures that installed software is compatible with the kernel and libraries already on the system.
+
+
+Proposal relevance: In workplace modernization, package management underpins automation, endpoint configuration, and cloud desktop provisioning. It allows IT teams to deploy consistent environments across many devices quickly.
+
+Package Management” here refers to the OS’s ability to manage software installation and removal through package managers. On the page, it is illustrated with the example of installing Apache on a Raspberry Pi, showing how Linux systems use tools like apt or rpm to simplify and secure software deployment.
+
+
+
 
 ## Summary of learning
 *What did you learn through these exercises*
