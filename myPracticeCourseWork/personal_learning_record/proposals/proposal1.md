@@ -4,8 +4,6 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
-https://www.bing.com/search?q=A%20proposal%20to%20replace%20all%20the%20office%20PC%27s%20with%20a%20hot%20desk%20solution.&qs=n&form=QBRE&sp=-1&lq=0&pq=a%20proposal%20to%20replace%20all%20the%20office%20pc%27s%20with%20a%20hot%20desk%20solution.&sc=1-67&sk=&cvid=8D5E483D440B46E483EEFD9EC0FCF955
-
 
 To replace all fixed office PCs with a hot desk solution, enabling flexible workspace usage, reducing costs, and improving employee mobility while aligning with modern workplace trends.The current office setup assigns each employee a dedicated PC and workstation. While this model has historically provided stability, it now presents several challenges.Limited flexibility Employees are tied to a single desk, reducing opportunities for collaboration and agile working.High costs Maintaining individual PCs increases hardware, licensing, and IT support expenses.
 .Mismatch with hybrid work With many employees working remotely part-time, dedicated PCs often sit idle, wasting resources.
@@ -33,6 +31,10 @@ Enhances employee collaboration and mobility.
 Reduces long-term operational costs while improving sustainability.
 
 Aligns with industry best practices for hybrid and flexible working.
+
+https://www.bing.com/search?q=A%20proposal%20to%20replace%20all%20the%20office%20PC%27s%20with%20a%20hot%20desk%20solution.&qs=n&form=QBRE&sp=-1&lq=0&pq=a%20proposal%20to%20replace%20all%20the%20office%20pc%27s%20with%20a%20hot%20desk%20solution.&sc=1-67&sk=&cvid=8D5E483D440B46E483EEFD9EC0FCF955
+
+
 ## Technologies and research relevant to this proposal
 🔧 Technologies:
 Cloud services & virtual desktops – since hot desking requires employees to log in from any workstation, cloud-based applications and virtual desktop infrastructure (VDI) are essential.
