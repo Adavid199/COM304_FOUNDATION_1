@@ -66,3 +66,25 @@ Boot System Structure” on the GitHub page you’re viewing is part of the Oper
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+You learned how the kernel, libraries, and utilities interact to manage processes, memory, and devices.
+
+This clarified how services like Apache or VDI agents depend on the OS structure.Low‑level programming (CPUlator → Raspberry Pi)
+
+Writing Assembly and C code showed how instructions execute at the hardware level.
+
+Running code on the Raspberry Pi revealed real‑world differences in timing, I/O, and peripheral control compared to emulation.File systems and security
+
+You gained understanding of Linux’s hierarchical file organisation and permission model.
+
+This reinforced how access control and ownership protect system integrity in multi‑user environments.Language systems
+
+You saw the distinction between runtime libraries (running code) and development libraries (building code).
+
+This connected directly to labs where compilers and toolchains were required to compile and test programs.It demonstrates evidence of learning: showing that your proposal is grounded in both theory and practice.It connects classroom labs to workplace technologies: virtualization, cloud desktops, endpoint management, and booking systems.It strengthens your proposal credibility: reviewers can see that your recommendations are backed by hands‑on experience and research.
+
+articulate the concrete skills and insights gained from exercises like CPUlator programming, Linux labs, and OS structure studies, and link them back to the technologies in your modernization plan.
+
+
+
+
