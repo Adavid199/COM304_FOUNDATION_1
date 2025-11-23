@@ -13,6 +13,19 @@ User interface: Shells (command line) or GUIs that allow humans to interact with
 “Operating System Structure” on this page signals the transition from kernel internals to the broader architecture of an OS, using Linux as the practical case study. It sets the stage for hands‑on exercises like installing and managing services, which rely on understanding how the OS layers fit together.
 
 
+Kernel” on the GitHub page you’re viewing introduces one of the most fundamental components of a modern operating system. It is part of the section Operating System Structure, which explains how Linux and other OSes are organised.The kernel is the core of the operating system, responsible for managing hardware resources and providing essential services to applications.Version control: Kernels are versioned, and all libraries and programs in a system must be compatible with a specified range of kernel versions.Scheduler: Decides which processes run on the CPU and when, ensuring fair and efficient use of resources.Device drivers: Allow the OS to communicate with hardware like disks, network cards, and GPUs.Virtual memory management: Provides each process with its own address space, handles paging/swapping, and ensures isolation.File systems: Manages how data is stored, retrieved, and organised on disk.Proposal relevance: Understanding the kernel is essential for managing cloud desktops, virtualization hosts, and endpoint devices in your modernization plan. It explains why certain applications or drivers may fail if kernel versions are mismatched.Security and stability: Because all higher‑level services depend on the kernel, its correctness and compatibility are critical for system reliability.
+
+“Kernel” here refers to the core operating system component that manages hardware and provides the essential services upon which all other parts of Linux (and other OSes) depend. It is the foundation of the OS structure described on the page.
+
+
+
+Language Systems” on the GitHub page you’re viewing is part of the Operating System Structure section. It refers to how programming languages and their supporting libraries are integrated into a Linux environment, and what is required to run or develop software on such systems.Practical implication for students: If you only have runtime libraries, you can run existing code but not compile new programs. Installing development libraries expands your ability to experiment, build, and extend software.Connection to earlier labs: This ties directly to the CPUlator and Raspberry Pi exercises mentioned earlier—students first write Assembly and C code, then need compilers and development libraries to build and run those programs on real hardware.
+Proposal relevance: In workplace modernization, understanding language systems helps when deploying cloud desktops or shared endpoints. For example, ensuring the right runtimes are available for business apps, or installing development stacks for technical teams.
+
+Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
+
+
+
 
 
 ## Personal Notes and research following this session
