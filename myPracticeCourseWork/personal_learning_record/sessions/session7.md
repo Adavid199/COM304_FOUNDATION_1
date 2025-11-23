@@ -18,6 +18,17 @@ User interface: Shells (command line) or GUIs that allow humans to interact with
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+is a reflective instruction in your personal learning record. On the GitHub page you’re viewing, it appears in the section where you connect your course sessions and independent research back to the technologies discussed in your modernization proposal (e.g., cloud desktops, virtualization, endpoint management, booking systems).Identify relevant class sessions that introduced or practiced technologies now appearing in your proposal.Reference personal research (case studies, whitepapers, industry articles) that supports or validates those technologies.
+Operating System Structure	Virtualization, cloud desktop hosts	Lab notes on Linux kernel and system utilities
+Playing with Linux	Endpoint management, user accounts	Screenshots of process/file management exercises
+CPUlator & Raspberry Pi labs	Low‑level troubleshooting, performance	Source code in Assembly/C and test logs
+Personal research: Cloud desktop case study	Azure Virtual Desktop feasibility	Link to industry whitepaper or article
+Personal research: Hot‑desking adoption	Booking systems.
+
+
+These sessions directly connect to proposal technologies like virtualization, cloud desktops, and endpoint management. Your personal research (e.g., industry case studies on hot‑desking adoption or cloud desktop ROI) provides external validation.
+
+
 
 
 ## Exercises and results
