@@ -58,6 +58,10 @@ User management: Supports multi‑user environments by isolating user data and c
 Language Systems” here refers to the way Linux manages programming languages: providing runtime libraries for execution, development libraries for compiling, and sometimes kernel libraries for deeper system integration. It explains the difference between running software and building software, and why both matter in operating system structure and practical labs.
 
 
+Boot System Structure” on the GitHub page you’re viewing is part of the Operating System Structure section. It explains how an operating system starts up and what processes are involved before the system is ready for use.Boot process definition: The sequence of steps a computer follows to load and start the operating system.Initial firmware: On PCs, the BIOS (Basic Input Output System) runs first. It is stored in ROM and provides basic diagnostics and configuration without an OS.Complexity of OS startup: The page stresses that an OS is not a single program—it requires many processes and data structures to be set up before it can run.Hardware awareness: The boot system tells the OS what hardware is installed, which is critical for device drivers and kernel configuration.Proposal relevance: For workplace modernization, understanding boot systems helps with provisioning endpoints, automating server deployment, and troubleshooting startup failures in cloud or VDI environments.
+
+“Boot System Structure” refers to the layered process of starting an operating system: firmware (BIOS/IPMI), boot loader (like GRUB), kernel initialization, and service startup. The surrounding page uses Linux and Raspberry Pi examples to show how these steps differ across platforms and why they matter for system management.
+
 
 
 ## Summary of learning
