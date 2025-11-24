@@ -4,12 +4,34 @@
 
 ## Topics covered
 *What topics were covered in this session*
-Introducing Computer Architecture.
-Bnary Arithmetic.
-Boolean Algebra.
-Binary and boolean.
+Introducing Computer Architecture
+
+Understanding the structure and function of a computer system.
+
+Focus on the CPU, memory, and control units.Binary Arithmetic
+
+How numbers are represented and manipulated in binary form.
+
+Essential for low‑level computing and processor operations.Boolean Algebra
+
+Logical operations (AND, OR, NOT) used in digital circuits and programming.
+
+Foundation for decision‑making in computing.Binary and Boolean Together
+
+Linking arithmetic and logic to show how computers process data and instructions.
+
+Demonstrates how hardware and software rely on these principles.
 
 
+it highlights the fundamental building blocks of computing:
+
+How computers are structured (architecture),
+
+How they calculate (binary arithmetic),
+
+How they make decisions (Boolean logic).
+
+This section helps you later connect these foundational concepts to your proposal work—for example, showing how understanding CPU architecture and memory management underpins technologies like virtualization, cloud desktops, or Raspberry Pi labs.
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
