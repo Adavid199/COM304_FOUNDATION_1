@@ -16,15 +16,24 @@ The LED's must turn on and off in the following sequence:
 5. RED
 ```
 
+The light sequence should follow the timing in the following diagram
+
+   ![alt text](../docs/images/lightsequence.png "Figure lightsequence.png")
+   
+   (from spreadsheet [Traffic_light_sequence-switching_v3.xlsx](../docs/images/Traffic_light_sequence-switching_v3.xlsx) )
+
+
 ## wiring
 
 The circuit is constructed using a breadboard as illustrated in the following images.
 
-   ![alt text](../docs/images/pi-node-red-gpio.drawio.png "Figure gpi-node-red-gpio.drawio.png")
+   ![alt text](../docs/images/pi-node-red-gpio.png "Figure gpi-node-red-gpio.png")
    
    ![alt text](../docs/images/LED-image.png "Figure LED-image.png")
    
-   ![alt text](../docs/images/piCircuit-example1.png "Figure piCircuit-example1.png")
+   ![alt text](../docs/images/piCircuit-example2.jpg "Figure piCircuit-example2.jpg")
+
+   ![alt text](../docs/images/GPIOWiringPi3.png "Figure GPIOWiringPi3.png")
 
 ## Flows
 

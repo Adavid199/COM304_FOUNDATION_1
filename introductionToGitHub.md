@@ -6,6 +6,9 @@ This will teach you a little bit about git and how to fork a copy of this reposi
 You will then be able to clone your fork locally.
 After this you can then proceed to doing the exercises in [session2](../main/sessions/session2/).
 
+The minimal commands you need for Git are in [Basic Github Usage](../main/veryBasicGithub.md).
+Try this first and then look at the more comprehensive instructions below.
+
 ### Introduction to GIT
 To be a professional developer, you will need to become proficient at using version control systems.
 Many version control systems (each with their own benefits and drawbacks e.g CVS, Subversion, git) have been popular over the years. 
@@ -101,7 +104,20 @@ You should also ensure that in most cases IDE specific sub folders and files are
 
 The example [.gitignore](../main/.gitignore)  should be suitable for most purposes and should be copied into the top level of your git repository.
 
-### Syncing with the upstream repo
+### Syncing with the upstream repo using GitHub UI
+I will be adding stuff to the upstream repo each session and you should be able to pull these into your local repo using the procedure described below.
+
+PLEASE DO NOT CHANGE ANYTHING IN YOUR LOCAL REPO EXCEPT IN `myPracticeCourseWork`.
+ this will allow merges to go smoothly.
+
+The simplest way to merge any changes from my upstream repository to your fork is to use the `synchronize fork` button if it appears on your forked repo. 
+Be very careful not to choose the option which discards your changes but choose the synchronize option which merges the upstream files.
+This should work smoothly provided you have made only made change in `myPracticeCourseWork`.
+
+![alt text](../main/docs/images/syncFork.png "Figure syncFork.png")
+
+### Syncing with the upstream repo using git commands in your repo
+
 Your tutor will be adding stuff to the upstream repo each week and you should be able to pull these into your local repo using the procedure described below.
 
 PLEASE DO NOT CHANGE ANYTHING IN YOUR LOCAL REPO EXCEPT IN myPracticeCourseWork.

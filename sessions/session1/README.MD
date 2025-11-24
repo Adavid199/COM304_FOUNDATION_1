@@ -128,6 +128,8 @@ You can reference code examples and work you have done collaboratively in class 
 
 ## Creating a project plan
 
+See Introduction to [Software Project Management](../session1/docs/projectManagement.md)
+
 Github provides a useful project management capability which allows you to track progress of projects in your repositories. 
 
 Full project documentation is provided in [Planning and tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
@@ -141,7 +143,7 @@ Start a project and use it to track your progress against tasks in this module.
 A useful and active project plan is a requirement for the assessment.
 
 
-## getting started with your Raspberry Pi
+## Getting started with your Raspberry Pi
 
 We will be using small single board computers called Raspberry Pi's to explore all aspects of computer architecture.
 

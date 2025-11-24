@@ -9,7 +9,7 @@ Routers typically have multiple ports each with a different IP address.
 When a packet enters a router through one port, it uses a `routing table` to determine which port to use to forward the packet to its next destination.
 
 These routing tables can be `statically` (manually) set up for small networks.
-In larger networks, network routers use [routing protocols]https://en.wikipedia.org/wiki/Routing_protocol) such as OSPF (Open Shortest Path First) to exchange information so that each router's routing table will forward packets in the most optimum direction to get to towards their destination.
+In larger networks, network routers use [routing protocols](https://en.wikipedia.org/wiki/Routing_protocol) such as OSPF (Open Shortest Path First) to exchange information so that each router's routing table will forward packets in the most optimum direction to get to towards their destination.
 
 Routing Protocols are for a more advanced modules but we are going to look at the static routing tables used in a small Local Area Network such as is usually found in a home office.
 
@@ -82,7 +82,7 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 
 In a simple network like this, the PC and the PI only need to know the address of a `default gateway` to talk to the Internet.
 
-If the device does not have the destination in it's routing table, it will send it to the `default gateway` with the highest metric. 
+If the device does not have the destination in it's routing table, it will send it to the `default gateway` with the lowest metric. 
 In the table above, we can see that the Pi will prefer to use the eth0 wired connection before using the wlan0 connection as its gateway.
 In or experiments this might not be correct because we know that only the wired network has connectivity to the internet using eduroam.
 
@@ -91,11 +91,16 @@ On the pi we could correct this by deleting the etho default route using
 ```
 sudo ip route del default dev eth0
 ```
-
+Unfortunately, on later raspbian systems, the network manager adds back the deleted route. 
+So another alternative would be to add a new route to the wifi default gateway with a lower metric
+```
+sudo route add -net default gw 10.10.0.1 netmask 0.0.0.0 dev wlan0 metric 1
+```
 
 ### PC Ethernet Config and Routing Table
 
-We can also look at the ports on the PC using `ipconfig`  in powerShell
+We can also look at the ports on the PC using `ipconfig`  in powerShell.
+(ipconfig /all will also show the mac address)
 
 ```
 PS C:\Users\cg02r> ipconfig

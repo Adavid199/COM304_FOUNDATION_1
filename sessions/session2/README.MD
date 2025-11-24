@@ -29,13 +29,16 @@ To do this, you will need to install git on your own machine.
 
 See [download git for windows https://git-scm.com/downloads/win](https://git-scm.com/downloads/win)
 
-Once GIT is installed, you will need to generate your own public and private keys and clone your repository.
+Once GIT is installed, you will need to generate your own personal assess token or public and private ssh keys and clone your repository.
 
-You now need to follow the instructions in [Introduction to Github](../../../main/introductionToGitHub.md) 
+The minimal commands you need for Git and how to set up a Personal Assess Token on Github are covered in [Basic Github Usage](../../../main/veryBasicGithub.md).
+Try this first and then look at the more comprehensive instructions in [Introduction to Github](../../../main/introductionToGitHub.md) 
 
-Check out the repo on your local PC.
+You can also edit your repo locally using an Integrated Development Environment see [Using an IDE](../../../main/usingAnIDE.md)
 
-Later you will also check out your repo on your Raspberry Pi
+Check out the repo you have cloned onto your local PC.
+
+Later you will also check out your repo onto your Raspberry Pi
 
 ## Binary and Boolean 
 
