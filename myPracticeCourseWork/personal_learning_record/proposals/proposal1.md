@@ -140,14 +140,14 @@ Vendor and licensing complexity: Unexpected costs or restrictive vendor terms co
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>Employees are not tied to desk</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>Cant keep personal posations on desk</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
@@ -160,14 +160,14 @@ Vendor and licensing complexity: Unexpected costs or restrictive vendor terms co
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>No need for dedicated sapce for each employee</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>Potential security threats because employees dont know their desk neighbours</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
