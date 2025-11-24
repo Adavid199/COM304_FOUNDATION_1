@@ -4,6 +4,8 @@
 
 ## Topics covered
 *What topics were covered in this session*
+
+
 Introducing Computer Architecture
 
 Understanding the structure and function of a computer system.
