@@ -4,6 +4,14 @@
 
 ## Topics covered
 *What topics were covered in this session*
+
+
+The Modern History of Computing
+First published Mon Dec 18, 2000; substantive revision Fri Jun 9, 2006
+Historically, computers were human clerks who calculated in accordance with effective methods. These human computers did the sorts of calculation nowadays carried out by electronic computers, and many thousands of them were employed in commerce, government, and research establishments. The term computing machine, used increasingly from the 1920s, refers to any machine that does the work of a human computer, i.e., any machine that calculates in accordance with effective methods. During the late 1940s and early 1950s, with the advent of electronic computing machines, the phrase ‘computing machine’ gradually gave way simply to ‘computer’, initially usually with the prefix ‘electronic’ or ‘digital’. This entry surveys the history of these machines.
+
+https://plato.stanford.edu/entries/computing-history/
+
 creating a project plan,
 History of computing,
 introduction to computer architecture,
