@@ -97,4 +97,27 @@ And learning proper startup/shutdown procedures.
 Understanding basic concepts,terms and appropriate technologies for computer computer system.
  Carry out technical instuction to build,run and troubleshoot computer systems.
  To carry out work independently and as part of team.
- Select appropraite hardware/sofeware technology to solve computing related problems.
+ Select appropraite hardware/sofeware technology to solve computing related problems.This reflection shows how hands‑on practice translated into understanding concepts, building confidence, and developing technical skills.It helps connect cla ssroom activities to your broader computing knowledge and future applications.Understanding basic computing concepts and terminology
+
+Learned how terms like binary, byte, Boolean algebra, computer architecture apply in practice.Technical skills in system setup and troubleshooting
+
+Gained experience preparing a Raspberry Pi (installing OS, configuring peripherals, connecting Wi‑Fi).
+
+Practiced proper startup and shutdown procedures to avoid system errors.Version control and collaboration
+
+Learned how Git supports version control and how GitHub enables team collaboration, documentation, and CI/CD automation. Independent and team working skills
+
+Exercises required both individual setup (e.g., configuring Pi) and collaborative tools (GitHub), reinforcing the ability to work alone and in group
+
+
+Selecting appropriate hardware/software technologies
+
+Developed the ability to choose the right tools (e.g., Raspberry Pi for learning, GitHub for collaboration) to solve computing problem
+
+create a structured reflection template (with sections for Concepts Learned, Skills Gained, and Applications) so you can reuse it across all your sessions for a consistent learning record.Highlight the skills developed (technical setup, troubleshooting, collaboration).
+
+
+
+
+
+        
