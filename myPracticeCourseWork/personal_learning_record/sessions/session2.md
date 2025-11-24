@@ -37,7 +37,11 @@ This section helps you later connect these foundational concepts to your proposa
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
 Basic principles for turning machine programable in turning complete so you can create or stimulate any turning machine with a turning machine,processing unit with both an arithmetic logic unit and processer registers.To control control unit that include instruction register and a programe counter,also store memory and data insructions in external mass storage input and output mechanisms.
+
+
+
 
 
 ## Exercises and results
