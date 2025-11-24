@@ -41,8 +41,13 @@ Software Project Management (SPM) plays a important role in the success of softw
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.
+
 This session is to give you a broad introduction to computing using real world and pratical exercises.it will give you the confidence to continue learning your own or together with other as your degree progress.Computing appears to be an incredibly complex and fast moving subject area,it has a language all of it owns whichs makes it seems impenetrable to many who have not been initiated into the dark arts.
 
+This project proposal aims to leverage technology to create an engaging and effective learning environment that prepares students for the digital world. By integrating technology into the classroom, we will provide students with the necessary skills and competencies to thrive in the 21st century. We seek support and funding to implement this project successfully and make a lasting impact on the educational experience of our students.In today’s digital age, integrating technology into the classroom has become crucial for enhancing the learning experience and preparing students for the future. This project proposal aims to explore and implement effective strategies for integrating technology into the classroom to promote student engagement, collaboration, and achievement.
+
+
+https://www.fundsforngos.org/proposals/an-example-sample-project-proposal-on-technology-integration-for-enhanced-classroom-learning/
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
