@@ -22,6 +22,11 @@ introduction to computer language, c language ,javascript/node red,
 microproccesor  architecture,
 installing raspberry pi,
 
+software project management
+walker royce rational software coperation
+
+
+
 
 
 
