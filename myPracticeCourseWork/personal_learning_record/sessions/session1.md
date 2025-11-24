@@ -25,6 +25,13 @@ installing raspberry pi,
 software project management
 walker royce rational software coperation
 
+Software Project Management (SPM) is all about planning, organizing, and observing the software development process to make sure the project is completed successfully, on time, and within budget. It involves tasks like planning, defining the project scope, calculating how much time and resources are needed, scheduling tasks, allocating resources, and tracking progress.Software is a non-physical product. Software Development is a new stream in business, and there is very little experience in building software products. Most of the software products are made to fit clients’ requirements. The most important thing is that basic technology changes and advances so frequently and rapidly that the experience of one product may not be applied to another one.It is the process of analyzing, prioritizing, tracking, and documenting requirements and then supervising change and communicating to pertinent stakeholders. It is a continuous process during a project.
+
+https://www.geeksforgeeks.org/software-engineering/software-engineering-software-project-management-spm/#what-is-software-project-management-spm
+
+
+
+
 
 
 
