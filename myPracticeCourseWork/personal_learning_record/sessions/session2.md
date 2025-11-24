@@ -60,7 +60,7 @@ Basic principles for turning machine programable in turning complete so you can 
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*T
+*What exercises did you complete. What results. Screen shots and notes*
 Types of memory ON CPU and OFF CPU
 Registe.
 Arithemetic logic unit.
@@ -77,12 +77,48 @@ Removable
 floppy /SD card / tape
 
 Virtual Memory
-virtual memory maps memory pages in chaches to real memory on disk,
+virtual memory maps memory pages in chaches to real memory on disk,Recording the specific tasks you did (e.g., comparing registers vs caches, exploring SRAM/DRAM, practicing virtual memory mapping).
+
+“Adders” refers to a category of digital circuits built from simple logic gates that perform binary addition. These are fundamental components in computer architecture because they allow processors to carry out arithmetic operations.An adder is a circuit that adds binary numbers.
+
+Purpose: They are used inside CPUs to perform arithmetic operations, forming part of the Arithmetic Logic Unit (ALU)
 
 
+Binary Arithmetic” refers to the way computers perform mathematical operations using binary numbers (numbers expressed in base‑2, with only digits 0 and 1). Since computers operate at the level of electrical signals (on/off states), binary arithmetic is the foundation of all computation.Binary and Hexadecimal Representation
+
+Binary numbers are grouped into bytes (8 bits).
+
+Hexadecimal (base‑16) is often used as shorthand for binary because it is easier for humans to read.
+
+Example: 11111111 in binary = FF in hex = 255 in decimal. Binary Multiplication
+
+Works like long multiplication in decimal, but with binary digits.
+
+Involves shifting and adding the multiplicand for each 1 in the multiplier.
+
+Example: 00001011 (11) × 00001110 (14) = 10011010 (154). 
 
 
+Boolean logic and adders, showing how simple logic gates combine to perform full arithmetic operations inside the CPU. It’s the bridge between abstract binary representation and real computation.
 
+6 Bit CPU” refers to an educational example of a processor that operates on 16‑bit data words. It builds on earlier sections (logic gates, adders, flip‑flops, registers, and the 4‑bit CPU) to show how more complex processors can be designed using the same fundamental building blocks.
+
+The page references a logigator 16‑Bit General Purpose CPU.
+
+This is a simulator that demonstrates how a 16‑bit processor can be constructed from standard logic components.A 16‑bit CPU can process larger numbers and addresses compared to a 4‑bit CPU.
+
+This means:
+
+More memory can be addressed.
+
+More complex programs can be run.
+
+Instruction sets can be richer
+It shows how the same principles (logic gates, adders, flip‑flops, registers) scale up to build more capable processors.
+
+It connects the theory of Boolean algebra and binary arithmetic to practical CPU design.
+
+It emphasizes that while the 4‑bit CPU is simple and easy to understand, the 16‑bit CPU demonstrates how real‑world processors achieve greater functionality.
 
 ## Summary of learning
 *What did you learn through these exercises*
