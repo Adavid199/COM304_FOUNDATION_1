@@ -42,7 +42,7 @@ Software Project Management (SPM) plays a important role in the success of softw
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.
 This session is to give you a broad introduction to computing using real world and pratical exercises.it will give you the confidence to continue learning your own or together with other as your degree progress.Computing appears to be an incredibly complex and fast moving subject area,it has a language all of it owns whichs makes it seems impenetrable to many who have not been initiated into the dark arts.
-
+https://copilot.microsoft.com/chats/2kUne5PVaHYAtsr6fuCNY
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
