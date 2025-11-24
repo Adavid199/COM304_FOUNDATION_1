@@ -53,11 +53,43 @@ https://www.fundsforngos.org/proposals/an-example-sample-project-proposal-on-tec
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+
  Getting started with git
 
  Git is a tool invented by linus Torvalds for version controlling, and collaboratively working on large projects such as the linux kernal.
- Github is a web site,now owned by microsoft,which many programmers and organisations use to host their code.in addition to simply hosting the code in git, GIThub also provides many tools which can support the develops process of large team. These include project documentation and project planning tools, package release hosting,web site hosting,issue and pull request management github flow and CI/CD tools using github automations.
+ Github is a web site,now owned by microsoft,which many programmers and organisations use to host their code.in addition to simply hosting the code in git, GIThub also provides many tools which can support the develops process of large team. These include project documentation and project planning tools, package release hosting,web site hosting,issue and pull request management github flow and CI/CD tools using github automations.Project documentation and planning tools
 
+Package release hosting
+
+Website hosting
+
+Issue and pull request management
+
+CI/CD automation tools (GitHub Actions)
+
+Installing a Raspberry Pi” refers to a step‑by‑step guide provided in Session 1 for setting up and running a Raspberry Pi device. It is not about physically assembling hardware, but rather about preparing the operating system and configuring the device so it can be used in class.A small, single‑board computer originally designed for education but now widely used in industry.In class, Raspberry Pi 2B boards are provided, so students don’t need to buy their own.
+
+Download and install the Raspberry Pi Imager on your laptop.
+
+Insert the blank microSD card into your computer.
+
+Use the Imager to select:
+
+The SD card
+
+The Raspberry Pi 2 Model B (or your own model)
+
+Insert the SD card, connect peripherals (keyboard, mouse, Wi‑Fi dongle, HDMI cable), then power on.
+
+The Pi will boot and display on the monitor (ensure HDMI input is selected).
+
+The latest Bookworm OS (32‑bit for Pi 2, 64‑bit for newer models) Preparing the microSD card with the correct OS,
+
+Configuring the Pi with standard settings for classroom use,
+
+Connecting peripherals and Wi‑Fi,
+
+And learning proper startup/shutdown procedures.
 
 
 ## Summary of learning
