@@ -32,7 +32,9 @@ Reduces long-term operational costs while improving sustainability.
 
 Aligns with industry best practices for hybrid and flexible working.
 
-https://www.bing.com/search?q=A%20proposal%20to%20replace%20all%20the%20office%20PC%27s%20with%20a%20hot%20desk%20solution.&qs=n&form=QBRE&sp=-1&lq=0&pq=a%20proposal%20to%20replace%20all%20the%20office%20pc%27s%20with%20a%20hot%20desk%20solution.&sc=1-67&sk=&cvid=8D5E483D440B46E483EEFD9EC0FCF955
+[Millward, L.J., Haslam, S.A. and Postmes, T., 2007. Putting employees in their place: The impact of hot desking on organizational and team identification. Organization Science, 18(4), pp.547-559.](https://www.researchgate.net/profile/S-Haslam/publication/258278295_2007_OS_Space/links/0deec527acf3b90223000000/2007-OS-Space.pdf)
+
+[Bing search hot desk](https://www.bing.com/search?q=A%20proposal%20to%20replace%20all%20the%20office%20PC%27s%20with%20a%20hot%20desk%20solution.&qs=n&form=QBRE&sp=-1&lq=0&pq=a%20proposal%20to%20replace%20all%20the%20office%20pc%27s%20with%20a%20hot%20desk%20solution.&sc=1-67&sk=&cvid=8D5E483D440B46E483EEFD9EC0FCF955)
 
 
 ## Technologies and research relevant to this proposal
