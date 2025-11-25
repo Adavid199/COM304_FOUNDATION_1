@@ -76,10 +76,41 @@ black box that magically runs software applications. In this course you will
 learn how a computer’s architecture provides for the computer services we 
 have become so accustomed to using.
 
+this section is about mapping your academic learning and personal research directly to the technologies you are recommending in your IT modernization proposal. It ensures that your proposal is not just opinion-based but grounded in evidence from coursework and external study.To show the origin of your knowledge: which class sessions introduced the concepts, and which personal research expanded them.
+
+To link theory to practice: demonstrating how classroom exercises (e.g., CPUlator, Raspberry Pi GPIO experiments) connect to real-world workplace technologies (e.g., hot desking, cloud desktops, hybrid work infrastructure).
+
+To strengthen credibility: by citing examples, guides, or specifications that support your proposal.
+
+CPU Architecture: Learning how a CPU is built from logic gates and how registers, stacks, and interrupts work.
+
+Connection: Helps explain how modern operating systems manage multitasking and process scheduling.High-Level Languages: Understanding interpreted vs compiled languages.
+
+Connection: Informs organizational choices between scripting tools (Python, Node-RED) and compiled systems (C/C++).
+
+Raspberry Pi IO Experiments: Using Node-RED and WiringPi to control LEDs and peripherals.
+
+Connection: Demonstrates how low-level hardware control links to automation and IoT in workplace technology.
+
+Node-RED: A low-code programming tool developed by IBM, useful for connecting hardware, APIs, and online services.
+
+Example: Installing Node-RED on Raspberry Pi and building a traffic light sequence flow.WiringPi: A C-based library for GPIO programming.
+
+Example: Testing input/output with scripts and observing results.
+
+Open vs Closed Source: Research into Linux and gcc as open-source tools versus proprietary platforms.
+
+This section demonstrates that your proposal is evidence-based.
+
+It shows that you are not just recommending technologies (like cloud desktops or hot desking) in isolation, but grounding them in academic learning outcomes and practical experiments.
+
+Linking to examples (like Node-RED traffic light flows or WiringPi test scripts) provides artifacts that make your proposal more credible and professional.
+
+
+This section is about tracing the roots of your proposal technologies back to your learning and research. By explicitly linking class sessions and personal study to your recommendations, you show that your proposal is well-founded, academically supported, and practically tested.
+
 
 https://www.london.ac.uk/sites/default/files/uploads/is1168-introduction-computer-systems-architecture-programming-study-guide.pdf
-
-
 
 NODE-RED
 Low code programming tool developed by IBM that connects hardware devices,APIS and online service together
