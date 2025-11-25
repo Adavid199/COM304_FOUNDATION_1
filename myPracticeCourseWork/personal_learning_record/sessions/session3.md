@@ -59,6 +59,28 @@ This section is about getting practical experience with Raspberry Pi IO. By wiri
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.
 
+ Introduction to computer systems architecture and 
+programming is a ‘100’ course offered on the Economics, Management, 
+Finance and the Social Sciences (EMFSS) suite of programmes.
+ The computer has become an integral part of our lives. Apart from the 
+computer you use to write your coursework and to communicate with 
+friends, there is the computer technology embedded in your coffee maker 
+that detects how hot to brew your coffee, in your mobile telephone, in the 
+ticket reader that deducts your bus fare directly from your bus pass, in the 
+ATM (automatic teller machine) that disposes your money for the week, etc. 
+The list is huge and is getting longer each day.
+ However, most of the users of these technologies have little or no 
+knowledge of the history of this phenomenal development and little 
+understanding of how a computer works. For most, the computer remains a 
+black box that magically runs software applications. In this course you will 
+learn how a computer’s architecture provides for the computer services we 
+have become so accustomed to using.
+
+
+https://www.london.ac.uk/sites/default/files/uploads/is1168-introduction-computer-systems-architecture-programming-study-guide.pdf
+
+
+
 NODE-RED
 Low code programming tool developed by IBM that connects hardware devices,APIS and online service together
 installing NODE RED on Rasberry PI
