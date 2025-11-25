@@ -16,6 +16,56 @@ Use of application called (Node RED)
 Raspberry PI labrary called (WiringPi) to manipulate the GPIO and control ecternal LED ligths.
 Programming the GPIO directly using assembler language and C
 
+this section is about hands-on activities using the Raspberry Pi’s GPIO (General Purpose Input/Output) pins to understand how the Pi communicates with the outside world.To move beyond CPU architecture and explore how a computer like the Raspberry Pi interacts with external devices.
+
+The GPIO pins allow you to connect LEDs, sensors, motors, and other peripherals, making the Pi a flexible platform for experimentation.These exercises help you see how low-level hardware control links to higher-level programming tools.
+
+
+Using the 40-pin GPIO connector:
+
+Internally mapped as GPIO 0–25 (though pin mapping varies between Pi versions).
+
+Pins can be programmed as INPUTs (to read signals) or OUTPUTs (to send signals).
+
+Some pins can also act as serial ports or clocks for external devices.
+
+Node-RED: A flow-based programming tool that lets you visually connect logic blocks to control GPIO pins.
+
+WiringPi library: A C-based library that simplifies GPIO programming.
+
+Traffic Lights:
+
+Guest lecturer Bob Potter provided a simple traffic light circuit using LEDs and Node-RED.
+
+This can be built with discrete components on a breadboard or using the Gertboard, a Pi add-on board designed for GPIO experiments.
+
+The traffic light flow works both with standalone LEDs and with the Gertboard’s built-in components.
+
+
+Through these experiments, you learn:
+
+How to configure GPIO pins as inputs/outputs.
+
+How to control external hardware (like LEDs) using software.
+
+How tools like Node-RED and WiringPi abstract away complexity, making GPIO programming more accessible.
+
+How hardware experiments connect to system-level concepts like interrupts, timing, and peripheral drivers.
+
+This section is about getting practical experience with Raspberry Pi IO. By wiring up LEDs or using the Gertboard, and controlling them with Node-RED or WiringPi, you see how software directly manipulates hardware. These experiments bridge the gap between abstract CPU architecture and real-world device control.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
