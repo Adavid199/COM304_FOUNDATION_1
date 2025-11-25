@@ -41,6 +41,28 @@ Personal research: Hot‑desking adoption	Booking systems.
 
 These sessions directly connect to proposal technologies like virtualization, cloud desktops, and endpoint management. Your personal research (e.g., industry case studies on hot‑desking adoption or cloud desktop ROI) provides external validation.
 
+studying operating system structure to experimenting with Linux utilities on a Raspberry Pi. One of the key exercises is to install and run the Apache 2 web server.To give you practical experience with Linux package management and system services.
+
+To show how a Raspberry Pi can act as a web server, hosting content locally.
+
+To connect operating system concepts (kernel, libraries, utilities, shell) with real-world applications like serving web pages.
+Apache HTTP Server (Apache 2) is one of the most widely used open-source web servers.
+
+It allows you to deliver web pages (HTML, CSS, JavaScript) to clients over a network.
+
+It runs as a background service on Linux, listening for requests on port 80 (HTTP).Use Linux commands to install Apache 2 via the package manager (apt-get install apache2).
+
+Start and enable the Apache service so it runs automatically.
+
+Place a simple HTML file in the /var/www/html directory.
+
+Access the Raspberry Pi’s IP address from a browser to confirm the server is working.Linux package management: How to install, update, and manage software using the command line.
+
+System services: How to start, stop, and check the status of background processes.
+
+Networking basics: How a device like the Raspberry Pi can serve content to other machines on the same network.
+
+Practical application: Turning a small, low-cost computer into a functioning web server.
 
 https://walkccc.me/CS/OS/Chap02/
 
