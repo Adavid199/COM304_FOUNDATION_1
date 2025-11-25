@@ -167,6 +167,8 @@ Principles from simple 4‑bit CPUs (logic gates, adders, registers) scale to 16
 
 Larger word sizes allow more memory addressing, richer instruction sets, and more complex programs.It connects abstract theory (binary logic, CPU design, memory hierarchy) to practical system design and performance considerations.
 
+it provides evidence that your proposal work is grounded in both academic learning and hands on experimentation.
+
 
 
 
