@@ -26,6 +26,7 @@ Proposal relevance: In workplace modernization, understanding language systems h
 
 
 ## Personal Notes and research following this session
+
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 is a reflective instruction in your personal learning record. On the GitHub page you’re viewing, it appears in the section where you connect your course sessions and independent research back to the technologies discussed in your modernization proposal (e.g., cloud desktops, virtualization, endpoint management, booking systems).Identify relevant class sessions that introduced or practiced technologies now appearing in your proposal.Reference personal research (case studies, whitepapers, industry articles) that supports or validates those technologies.
@@ -41,7 +42,7 @@ Personal research: Hot‑desking adoption	Booking systems.
 These sessions directly connect to proposal technologies like virtualization, cloud desktops, and endpoint management. Your personal research (e.g., industry case studies on hot‑desking adoption or cloud desktop ROI) provides external validation.
 
 
-
+https://walkccc.me/CS/OS/Chap02/
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
