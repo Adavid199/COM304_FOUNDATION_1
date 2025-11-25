@@ -229,7 +229,54 @@ Reflect on how they build your ability to reason about code.
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
+This section is part of your Personal Learning Record template. It is designed to help you document practical engagement with the session topics (machine code, assembly, ARM registers, stacks, subroutines, interrupts, high-level languages, etc.) and connect them to your learning outcomes.It prompts you to record the hands-on exercises you carried out during the session.
 
+These exercises are typically done in the CPUlator ARM simulator or similar environments, where you can observe registers, flags, and memory-mapped peripherals in action.By writing down what you did, you create a traceable record of your learning journey.
+
+Writing a simple assembly program to move values into registers.
+
+Observing how the Stack Pointer (R13) changes when calling a subroutine.
+
+Triggering an interrupt via a timer or UART peripheral.
+
+Running a C program and watching how it translates into assembly/machine code.
+
+
+
+Document the outcome of each exercise:
+
+Did the program run successfully?
+
+What values appeared in the registers?
+
+How did the stack grow/shrink during function calls?
+
+Did the interrupt handler execute as expected?
+
+
+Capture CPUlator output (register states, memory views, stack pointer changes).
+
+Screenshots serve as evidence of your work and make your notes more credible.
+
+
+Add observations and reflections:
+
+What did you learn from the exercise?
+
+Were there any errors or debugging steps?
+
+How does this connect to the theory (e.g., ARM documentation, high-level vs low-level languages)?
+
+
+It strengthens your ability to reason about code—a skill emphasized in the research link provided earlier.
+
+It also provides artifacts (screenshots, notes) that can support your IT modernization proposal, showing that your recommendations are grounded in hands-on technical learning.This section is essentially your lab diary:
+
+Record the tasks you did.
+
+Capture the results with screenshots.
+
+Reflect with notes that tie back to the session’s learning goals.
 
 ## Summary of learning
 *What did you learn through these exercises*
