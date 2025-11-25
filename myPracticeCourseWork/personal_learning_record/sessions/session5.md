@@ -196,11 +196,33 @@ University. It enables assessors, teachers and candidates to work to one well
 defined notation and is suitable for use in schools and further education/higher 
 education institutions.
 
+Based on the surrounding page content, this section is meant to connect classroom learning with your own applied research and proposal work.It encourages you to document your reflections after completing the exercises in the session.
+
+The focus is on linking what you learned (e.g., machine code, assembly, ARM registers, stacks, interrupts, high-level languages) to real-world technologies that you are analyzing in your IT modernization proposal.By writing personal notes, you demonstrate not just technical understanding but also the ability to reason about code and systems in a way that supports workplace technology recommendations.
+
+The text highlights that being able to reason about code is crucial for learning to program:
+
+If you can’t explain what a fragment of code does, you can’t debug it.
+
+If you can’t explain your code to someone else, you can’t justify your design decisions.
+
+To assess this reasoning ability, programs must be presented in assessment questions.
+
+The page links to a reference language specification developed with academics (Prof. Greg Michaelson, Prof. Quintin Cutts, Prof. Richard Connor) that provides a standardized way to set such questions in schools and universities.
+
+This shows how your personal research is expected to tie into formal educational frameworks and technology proposals.
+
+
+
+
+
 https://www.sqa.org.uk/sqa/files_ccc/Reference-language-for-Computing-Science-Sep2016.pdf
 
+It’s about bridging theory and practice:
 
+Document your exercises and results.
 
-
+Reflect on how they build your ability to reason about code.
 
 
 
