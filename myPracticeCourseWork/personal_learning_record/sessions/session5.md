@@ -114,6 +114,76 @@ Together, they illustrate how ARM programs manage control flow and external even
 Stacks, Subroutines, and Interrupts are introduced as the core mechanisms for managing program flow and CPU state. They show how ARM handles function calls, returns, and external events — all of which you can observe directly in CPUlator when stepping through assembly or C code.
 
 
+High Level Languages
+
+They are designed to let programmers express concepts and logic without worrying about the low-level details of how the CPU manipulates bits and bytes.
+
+Examples include C, Java, Python, BASIC, JavaScript.assembly, which is tied closely to hardware registers and instructions, high-level languages abstract away those details so programmers can focus on solving problems.
+
+Two Main Types
+Interpreted Languages
+
+Code is read and executed line by line at runtime.
+
+Examples: Python, JavaScript, PHP, Bash.
+
+Advantages:
+
+Easier to write and test incrementally.
+
+Immediate feedback when running code.
+
+Advantages:
+
+Easier to write and test incrementally.
+
+Immediate feedback when running code.
+
+
+Disadvantages:
+
+Slower execution, since translation to machine code happens every time the program runs.
+
+Bugs may only appear when specific parts of the program are executed.
+
+Special case: Node-RED (a low-code visual tool) is essentially an interpreter that converts flow diagrams into JavaScript, then into machine code.
+
+Compiled Languages
+
+Code is translated into machine code ahead of time through a compilation process.
+
+Examples: C, C++.
+
+Advantages:
+
+Faster execution since the program is already in machine code.
+
+Compiler can check the entire program, catching errors and optimizing performance.
+
+Disadvantages:
+
+Slower development cycle because you must compile before running.
+
+Supporting tools:
+
+Linker: connects your program with external libraries.
+
+Loader: places the compiled program into memory so the CPU can run it.
+
+
+🔒 Open vs Closed Source
+Closed Source: Companies distribute only compiled machine code, keeping the original source hidden to protect intellectual property.
+
+Open Source: Developers share both source code and compiled binaries. Examples include Linux and the gcc compiler.
+
+High-level languages are about human readability and productivity. They trade off direct hardware control for abstraction, making programming more accessible and efficient. The choice between interpreted and compiled languages reflects a balance between ease of development and runtime performance.
+
+
+
+
+
+
+
 
 
 
