@@ -121,44 +121,26 @@ It connects the theory of Boolean algebra and binary arithmetic to practical CPU
 It emphasizes that while the 4‑bit CPU is simple and easy to understand, the 16‑bit CPU demonstrates how real‑world processors achieve greater functionality.
 
 ## Summary of learning
+
 *What did you learn through these exercises*
 
-The CPU acts as the “brain” of the computer, retrieving instructions from memory, interpreting them, and executing them.
+To demonstrate how exercises (CPUlator simulations, memory hierarchy comparisons, binary arithmetic, Boolean logic, scaling up CPU design) helped you connect theory to practice.
+
+To show growth in your ability to reason about code, hardware, and system performance.The CPU acts as the “brain” of the computer, retrieving instructions from memory, interpreting them, and executing them.
 
 It coordinates data flow between input/output devices, memory, and other components.Memory Hierarchy and Performance
 
 Registers are fastest, caches slower, RAM slower still, and external storage (HDD/SSD) much slower.
 
-Virtual memory maps disk storage to memory pages, showing how systems manage limited physical RAM.Binary Arithmetic and Boolean Logic
+Virtual memory maps disk storage to memory pages, showing how systems manage limited physical RAM.Binary Arithmetic and Boolean Logic in Practice
 
 Binary addition, multiplication, and logic gates combine to perform real arithmetic operations.
 
-Adders and logic circuits bridge abstract binary representation and computation.caling Up CPU Design
+Adders and logic circuits bridge abstract binary representation and computation.Scaling Up CPU Design
 
 Principles from simple 4‑bit CPUs (logic gates, adders, registers) scale to 16‑bit processors.
 
-Larger word sizes allow more memory addressing, richer instruction sets, and more complex programs.
-
-
-
-
-This clarified the link between abstract binary instructions and real computational tasks.
-
-Memory Hierarchy and Performance
-
-Learned the difference between registers, caches, RAM, and external storage.
-
-Realized that registers are fastest, caches slower, and off‑CPU memory (like HDD/SSD) much slower.
-
-Practiced how virtual memory maps disk storage to memory pages, reinforcing how systems manage limited physical RAM.Binary Arithmetic and Boolean Logic in Practice
-
-Saw how binary addition, multiplication, and logic gates combine to perform real arithmetic operations.
-
-Understood that adders and logic circuits are the bridge between abstract binary representation and computation.Scaling Up to a 16‑Bit CPU
-
-Learned how the same principles (logic gates, adders, registers) scale from simple 4‑bit CPUs to more capable 16‑bit processors.Larger word sizes allow more memory addressing, richer instruction sets, and more complex programs.
-
-It connects abstract theory (binary logic, CPU design, memory hierarchy) to practical system design and performance considerations.
+Larger word sizes allow more memory addressing, richer instruction sets, and more complex programs.It connects abstract theory (binary logic, CPU design, memory hierarchy) to practical system design and performance considerations.
 
 It provides evidence that your proposal work is grounded in both academic learning and hands-on experimentation.
 
