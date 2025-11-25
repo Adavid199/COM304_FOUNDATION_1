@@ -280,3 +280,42 @@ Reflect with notes that tie back to the session’s learning goals.
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+Reflection here shows how the exercises helped you connect theory (ARM architecture, machine code, assembly, high-level languages) with practice (CPUlator outputs, register changes, stack behavior, interrupts firing).
+
+This is where you demonstrate growth in your ability to reason about code and systems.Machine code gives total control but is unreadable.
+
+Assembly shows near-direct hardware operations.
+
+High-level languages abstract away details for productivity.General-purpose registers (R0–R14) store values and calculations.
+
+Special registers (SP, LR, PC) manage stack, subroutine calls, and program flow.
+
+
+Stack pointer moves as values are pushed/popped.
+
+Subroutines save state and return correctly via the Link Register.
+
+Interrupts temporarily halt execution, save context, and resume smoothly.
+
+How memory-mapped peripherals work:
+
+Writing to specific addresses controls devices (UART, LEDs, timers).The trade-offs between interpreted and compiled languages:
+
+Interpreted = easier to test, slower runtime.
+
+Compiled = faster runtime, longer development cycle.Open vs closed source implications:
+
+How sharing source code (open) vs hiding it (closed) affects learning, collaboration, and organizational choices.
+
+Why It Matters
+
+It strengthens your ability to justify design decisions in your IT proposal (e.g., why open-source tools might be better for flexibility, or why compiled languages might suit performance-critical systems).It shows that you are building the skill to reason about code, which the page emphasizes as essential for debugging, teaching, and professional credibility.This section is about turning practice into insight. You capture not only what happened in the exercises but also what you understood and why it matters for programming, system design, and your broader technology proposal.
+
+
+
+
+
+
+
+
