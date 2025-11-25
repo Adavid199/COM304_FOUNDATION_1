@@ -139,6 +139,47 @@ WiringPi Test scripts
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+
+To document the exercises you performed (e.g., programming GPIO pins, building traffic light flows, testing WiringPi scripts).
+
+To record the results of those exercises (e.g., LEDs switching correctly, timing sequences working, GPIO responding to input/output).To include screenshots of your Raspberry Pi or CPUlator outputs as proof of completion.
+
+To add notes and reflections that explain what happened, what you observed, and how it connects to the theory.
+
+Installing Node-RED on Raspberry Pi
+
+Accepting default configuration scripts and enabling GPIO library.
+
+Traffic Light Switching Flow
+
+Using inject nodes to control LED timing (15-second sequence).
+
+Synchronizing northbound and southbound traffic lights with delay nodes.WiringPi Test Scripts
+
+Running input/output tests to confirm GPIO pin control.
+
+Gertboard Setup
+
+Wiring LEDs and testing with simplified schematics.
+
+Node-RED successfully controlled LEDs in the correct traffic light sequence.
+
+Delay nodes kept timing synchronized without drift.
+
+WiringPi scripts confirmed GPIO pins could be toggled between input/output states.
+
+Screenshots of Node-RED flows and terminal outputs validated the experiments.This section provides evidence of hands-on learning.
+
+Screenshots and notes make your record credible and traceable.
+
+Documenting results helps you reflect on what worked, what didn’t, and why.
+
+It bridges the gap between abstract CPU architecture and real-world device control.
+
+
+
+
+
 INSTALL NODE RED ON RASPBERRY PI
 This will show you how to a scprit to install NODE RED
 Accept the default for the configuration scripts
