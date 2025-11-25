@@ -56,21 +56,9 @@ This section is about getting practical experience with Raspberry Pi IO. By wiri
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+*Which class sessions and personal research refers to technology in this proposal. Link to examples.
+
 NODE-RED
 Low code programming tool developed by IBM that connects hardware devices,APIS and online service together
 installing NODE RED on Rasberry PI
