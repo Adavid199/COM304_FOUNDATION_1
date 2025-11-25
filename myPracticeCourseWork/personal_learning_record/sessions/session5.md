@@ -180,16 +180,26 @@ High-level languages are about human readability and productivity. They trade of
 
 
 
-
-
-
-
-
-
-
-
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
+The ability to reason about code is increasingly being seen as a crucial part of 
+learning to program. For example, if you can’t explain in precise detail what a 
+fragment of code does, you can’t debug. If you can’t explain the code you’ve just 
+written to someone else, how can you justify any of the decisions you made in 
+creating it and then demonstrate any level of understanding? 
+To assess candidates’ ability to reason about programs, programs must be 
+presented in assessment questions. This document contains a specification for a 
+reference language designed for setting such questions, developed in 
+collaboration with Prof. Greg Michaelson of Heriot Watt University, Prof. Quintin 
+Cutts of the University of Glasgow, and Prof. Richard Connor of Strathclyde 
+University. It enables assessors, teachers and candidates to work to one well
+defined notation and is suitable for use in schools and further education/higher 
+education institutions.
+
+https://www.sqa.org.uk/sqa/files_ccc/Reference-language-for-Computing-Science-Sep2016.pdf
+
+
 
 
 
