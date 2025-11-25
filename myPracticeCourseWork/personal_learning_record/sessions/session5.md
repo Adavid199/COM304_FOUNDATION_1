@@ -180,8 +180,7 @@ High-level languages are about human readability and productivity. They trade of
 
 
 
-## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+## Personal Notes and research following this session research refers to technology in this proposal. Link to examples.**
 
 The ability to reason about code is increasingly being seen as a crucial part of 
 learning to program. For example, if you can’t explain in precise detail what a 
@@ -198,6 +197,8 @@ defined notation and is suitable for use in schools and further education/higher
 education institutions.
 
 https://www.sqa.org.uk/sqa/files_ccc/Reference-language-for-Computing-Science-Sep2016.pdf
+
+
 
 
 
