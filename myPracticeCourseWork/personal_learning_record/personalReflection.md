@@ -6,6 +6,7 @@
 **NOTE**
 
 * At the conclusion of the module, describe how you have progressed.
+* 
 it demonstrates self-awareness, critical thinking, and the ability to connect theory with practice.Describe how your skills, knowledge, or confidence have evolved. For example, you might have moved from basic familiarity with cloud infrastructure to confidently drafting modernization proposals.Highlight fresh concepts, tools, or methods you encountered (e.g., virtualization labs, hot desking case studies, or automation scripts).Acknowledge challenges—whether technical (troubleshooting Linux utilities) or conceptual (linking research evidence to workplace proposals).Document independent exploration, such as reading case studies, experimenting with Raspberry Pi, or benchmarking systems.Outline how you plan to extend your learning, whether through deeper research, applying skills in real-world projects, or refining proposal-writing techniques.
   
 * Start by recalling your baseline knowledge at the beginning of the module.Celebrate achievements but also admit difficulties.
