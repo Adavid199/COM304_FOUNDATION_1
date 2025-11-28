@@ -78,13 +78,69 @@ Many begin with only high-level coding experience (Python, JS). Transitioning to
 
 
 
-
-
-
-
-
 * What personal research have you done.
+* 
+Reading case studies on workplace IT modernization, hot desking, or cloud infrastructure.
+
+Experimenting with hardware such as Raspberry Pi (e.g., setting up GPIO, testing sensors, benchmarking performance).Exploring system tools like Linux package managers, troubleshooting dependency conflicts, or testing different distributions.
+
+Benchmarking systems to compare throughput, latency, or resource usage.Benchmarking systems to compare throughput, latency, or resource usage.
+
+Studying theoretical foundations like binary, Boolean algebra, or microprocessor I/O, then applying them in labs.
+
+Hot desking 
+
+A flexible workplace strategy where  employees share available  desks rather than having assigned seating, offering potential coast savings, collaboration benefit, and adaptability, but also presenting challenges related to personal space, mental welbeing,and productivity.First-come, first-served: Employees claim desks as they arrive.Reservation-based (hoteling): Desks are booked in advance for predictable work schedules.Activity-based: Desks and zones are chosen based on task types (focused work, collaboration, meetings) rather than availability. Cost and Space Efficiency: Hot desking can reduce real estate costs by up to 30% and improve space utilization, particularly in hybrid workplaces where desks may otherwise remain unused 
+2
+.
+Enhanced Collaboration: Employees interact with new colleagues, promoting knowledge sharing and informal networking 
+1
+ [14].
+Flexibility and Autonomy: Workers can choose a workspace that suits the day’s tasks, supporting hybrid work schedules 
+1
+.
+Sustainability: Shared resources lead to more efficient energy use and reduced environmental impact.Desk Booking Systems: Use apps or software to reserve desks in advance and track availability 
+2
+.
+Clear Desk and Hygiene Policies: Encourage tidying and disinfecting shared workspaces daily 
+1
+.
+Activity-Zoned Offices: Designate quiet areas for focused work, collaborative zones for teams, and social spaces for informal interaction 
+2
+.
+Monitor Space Utilization: Collect data on occupancy, desk usage, and peak times to optimize layouts and desk-to-employee ratios 
+1
+.
+Accommodate Individual Needs: Some employees may require fixed desks due to disabilities or personal work habits; inclusivity is essential 
+2
+.
+Trial Periods and Feedback Loops: Pilot hot desking, gather employee input, and refine office policies before full adoptionOnly 40% of companies maintain a 1:1 desk-to-employee ratio, down from 56% in 2023, with 92% of organizations using hybrid work models 
+1
+.
+In Europe, hot desking aligns with activity-based working; countries like the UK, Netherlands, and Nordic nations are ahead in flexible office design 
+1
+.
+Studies show that high-performing offices with well-designed flexible spaces can lead to 85% of workers reporting high productivity 
+1
+.
+Core challenges remain: desk shortages, lack of perceived control, and stress around workspace availability.
+
+Hot desking remains a widely adopted strategy in hybrid work environments, offering flexibility, cost savings, and collaboration opportunities, but it also carries risks related to employee wellbeing, productivity, and team cohesion. Successful implementation involves thoughtful office design, technology-driven reservation systems, attention to social and psychological factors, and ongoing data collection to meet the diverse needs of employees 
+The Conversation
++6
+. Tailoring the approach based on employee preferences and work types is crucial to achieving a balance between efficiency and satisfaction.
+1
+.
+
+* 
 * What will you need to do next to consolidate your knowledge.
+
+  
+1
+.
+
+1 Source
+ 
 
 ---
 
