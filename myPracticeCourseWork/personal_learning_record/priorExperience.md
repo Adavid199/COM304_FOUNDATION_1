@@ -56,7 +56,11 @@ Writing reports that explain how issues were found and how to fix them.
 
 In real life, this translates to jobs where you test company networks, applications, or websites to strengthen their defenses. Companies pay professionals to do this because the cost of prevention is far less than the damage of a breach.
 
-For students aiming to enter an ethical hacking career, completing a program like Certified Ethical Hacking provides a recognized path. It ensures you learn responsibly and follow rules of engagement while testing systems.By learning penetration testing, you gain not only technical skills but also the problem-solving mindset needed to outthink attackers.
+For students aiming to enter an ethical hacking career, completing a program like Certified Ethical Hacking provides a recognized path. It ensures you learn responsibly and follow rules of engagement while testing systems.By learning penetration testing, you gain not only technical skills but also the problem-solving mindset needed to outthink attackers.How viruses spread through email attachments or infected USB drives.
+How ransomware locks files until payment is made.
+How spyware monitors user activity without permission. How to focuse on virus prevention in cybersecurity, such as using antivirus software, updating patches, and practicing safe browsing.
+
+In real life, this knowledge helps you protect your personal devices as well as company systems. For example, knowing how phishing emails deliver malware can stop you from clicking dangerous links.Employers value this skill because malware remains one of the most common attack methods. Understanding how it works prepares you for roles in security operations and system defense.
 
 
 ---
