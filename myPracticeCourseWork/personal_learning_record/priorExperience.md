@@ -15,6 +15,8 @@ Overall, my computing experience has been shaped by a balance of practical proje
 
 * What do you know and what would you like to learn from this module?
 
+  In computing i know a range form of basic operational skills like using a keyboard and mouse, to more technical knowledge of how computer works internally, Also know how to organize, saving and downloading files, understanding file extensions and managing software updates, standing files extension and managing software updates.Using  technology safely respecfully, and securely, including protecting online identity and recognizing inappropriate content.I would like to learn more about cybersecurity how to protect computer system and data threats, basic computer literacy such as file managemnet using words processor and navigating the internet. No
+
 ---
 
 
