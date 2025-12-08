@@ -244,13 +244,13 @@ Map risks to actions Convert political and compliance items into contract requir
     </td>
   </tr>
   <tr>
-    <th>Social </th> Employees may experience desk anxiety or discomfort from losing personalization at a fixed desk.
+    <th> Social </th> Employees may experience desk anxiety or discomfort from losing personalization at a fixed desk.
     <th> Technological” refers to the tools, infrastructure, and compatibility requirements that determine whether the proposal can be delivered effectively.
   </tr>
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>idea</li> Employees gain flexibility by not being tied to one desk.
         <li>idea</li>
         <li>idea</li>
       </ol> 
