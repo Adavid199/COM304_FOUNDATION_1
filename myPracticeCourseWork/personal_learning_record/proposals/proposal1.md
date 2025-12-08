@@ -237,7 +237,7 @@ Map risks to actions Convert political and compliance items into contract requir
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>idea</li> refers to the financial trade‑offs, cost structures, and return on investment considerations that determine whether the proposal is viable for the council.
         <li>idea</li>
         <li>idea</li>
       </ol> 
