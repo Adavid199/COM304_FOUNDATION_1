@@ -134,8 +134,8 @@ User resistance: Negative employee feedback or low adoption could undermine util
 Vendor and licensing complexity: Unexpected costs or restrictive vendor terms could erode the projected savings discussed under investments.
  <table>
   <tr>
-    <th>Strength</th>
-    <th>Weakness</th>
+    <th>Strength</th> Employees are no longer restricted to a single, assigned desk. 
+    <th>Weakness</th> Employees may feel “desk anxiety” or miss having a permanent space for personal items.
   </tr>
   <tr>
     <td>
