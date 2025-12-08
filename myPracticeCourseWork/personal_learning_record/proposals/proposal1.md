@@ -224,13 +224,13 @@ Map risks to actions Convert political and compliance items into contract requir
 
  <table>
   <tr>
-    <th>Political</th>
-    <th>Economic</th>
+    <th>Political</th> Political” appears within the PEST analysis of the hot‑desking and cloud desktop proposal 
+    <th>Economic</th> Public sector organizations must follow strict procurement rules and vendor accreditation requirements.
   </tr>
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>idea</li> Political” dimension ensures that the proposal is not just technically feasible but also legally compliant, strategically aligned, and institutionally supported.
         <li>idea</li>
         <li>idea</li>
       </ol> 
@@ -257,7 +257,7 @@ Map risks to actions Convert political and compliance items into contract requir
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>idea</li> Political” here refers to the external rules, approvals, and governance structures that shape how the council can adopt hot‑desking and cloud desktops — covering procurement, compliance, and stakeholder decision‑making.
         <li>idea</li>
         <li>idea</li>
       </ol> 
