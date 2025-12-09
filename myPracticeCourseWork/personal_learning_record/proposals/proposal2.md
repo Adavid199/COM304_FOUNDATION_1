@@ -96,15 +96,15 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
     <td>
       <ol>
         <li>you can increase or decrease computing power, storage, or network capacity instantly</li>
-        <li>idea</li>
+        <li>No need to buy new hardware for growth or worry about overbuilding for future need</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cloud can become more expensive than on prem if not managed well</li>
+        <li>Continious usage, data transfer fees, and scaling resources can lead to unnexpected bills</li>
+        <li>long term heavy workload may cost less on owned hardware</li>
       </ol> 
     </td>
   </tr>
