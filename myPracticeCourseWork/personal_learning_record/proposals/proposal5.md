@@ -125,7 +125,31 @@ isolation, field-initiated R&D seldom forces the
 selection of a problem's best solution. In result, 
 suboptinla1 strategies are pursued while more 
 promising research strategies requiring sequen- 
-tial grants are difficult to sustain. 
+tial grants are difficult to sustain. The technology and assessment theme 
+encompasses technology-based mechanisnls for 
+supporting both formative (diagnostic) assess- 
+ment and summative assessment to help stu- 
+dents, teachers, school systems, and conimunities 
+see qualities of student achievement that are 
+invisible on traditional, standardized tests. Ques- 
+tions this theme team is considering include: 
+How can network technology support the devel- 
+opment and implementation of shared norms 
+for assessing student work? How can network 
+technology support measurement of what stu- 
+dents have learned in ways that motivate stu- 
+dents, produce further learning, and inform 
+teacher practice? Can electronic archives of 
+extended interactions between students and oth- 
+ers or between students and software environ- 
+ments be catalogued and analyzed to produce 
+cost-effective measures of learning and collabo- 
+ration? Does changing the medium or type of 
+assessment have a differential impact on girls, 
+historically underserved groups, or students 
+with disabilities? Can generalizable science- 
+inquiry learning metrics be developed that 
+could be used across some range of projects 
 
 
 
