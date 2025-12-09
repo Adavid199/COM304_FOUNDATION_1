@@ -61,7 +61,75 @@ for Technology in Learning, University of Cali-
 fornia at Berkeley (School $Education and 
 Department of Computer Science), Vanderbil t 
 University's Learning Technology Center, and 
-the Concord Consortium.
+the Concord Consortium.  Through its pro- 
+grams, CILT seeks to reach beyond these orga- 
+nizations to create a web aforganizations, 
+individuals, industries, schooIs,foundations, 
+government agencies, and labs, that is dmoted 
+to the production, sharing and use $new 
+knowledge about how learning technologies 
+can dramatically improve the processes and 
+outcomes of learning and teaching. This paper 
+describes the rationale and operations ofthe 
+Center, andfirst-year progress in d+ning a 
+set of CILT partnership projects with many 
+other institutions that came out $our 
+nntionnl thcme-tcnm workshops.
+
+New developments from industry (e.g., compo- 
+nent software, groupware). How can learning 
+technology innovations be fostered and scaled at 
+a national level? How can the engines of change 
+that computers and information networks repre- 
+sent be turned to knowledge networks for fos- 
+tering learning-technology invention, testing, 
+use, refinement, and commercialization? The 
+nation needs an integrated forum for building 
+and sharing the wisdom and insights derived 
+from highly diverse sources-university 
+and 
+think-tank-based researchers, industry groups, 
+and teacher knowledge developed through their 
+own innovations and implementations of learn- 
+ing technologies in their classrooms.  More interaction is needed. New studies of on- 
+line communities conducted for a diversity of 
+industries indicate that the key to new market 
+opportunities and increasing returns is to com- 
+bine content and communicatioi~. Hagel and Arm- 
+strong (1997) demonstrate how new value is 
+created and captured in on-line communities by 
+providing not only content but also communica- 
+tion and search tools that enable community 
+members to interact and build relationships. 
+There are surprisingly few opportunities for 
+such timely sharing of insights and pre- 
+publication~ among potential learning technol- 
+ogy collaborators with similar goals but 
+different professional affiliations.
+
+https://telearn.hal.science/hal-00190608/file/A100_Pea_etal_99_CILT.pdf
+
+Field-initiated RDD needs coordinntioi?. The usual 
+strategy of relying on funded field-initiated pro- 
+jects to produce educational change needs to be 
+supplemented with coordination provided by 
+the profession itself. Funders can rarely move 
+quickly enough to explore emerging opportuni- 
+ties created by technologies that can now go 
+through two generations in the time it takes to 
+conceive, submit, and award a proposal. These 
+long processing times favor larger grants that 
+then tend to be more risk averse and, hence, less 
+innovative. Because each proposal is viewed in 
+isolation, field-initiated R&D seldom forces the 
+selection of a problem's best solution. In result, 
+suboptinla1 strategies are pursued while more 
+promising research strategies requiring sequen- 
+tial grants are difficult to sustain. 
+
+
+
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
