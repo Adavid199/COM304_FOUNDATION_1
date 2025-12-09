@@ -100,7 +100,19 @@ in advance of the follow-up classroom discussion; using student
 solutions to illustrate properties of the problem; and engaging the 
 students with formalizing an algorithmic solution to the problem, 
 after having attempted to use ad hoc methods for solving it.  Below, 
-we elaborate on each of these four goals. 
+we elaborate on each of these four goals. Since understanding the essence of a problem is both a precondition 
+and a motivator for understanding solutions to it, to ensure that eve
+70
+ryone has made this important step1, the instructor felt it was essen
+tial to address misconceptions about the problem statement as early 
+as possible, and before talking about specific algorithms.  The 
+mechanism for achieving this was to have students work through an 
+example, and for the instructor to proactively clarify the problem 
+statement if and when students showed signs of not grasping it.  
+Students were also encouraged to discuss with one another in class, 
+which allowed some misconceptions to be cleared by the students 
+themselves.
+
 https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:qMPDgIyUTB07OCrv7j-7eFeTtP51rb72huTeaIl2r3truSLx83eVUBez2t3NwLBDwwHa_78oosIV
 
 ## Initial Analysis of the Proposal
