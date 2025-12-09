@@ -50,7 +50,36 @@ This proposal provides a structured approach to ensure a secure, scalable, and c
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Under the traditional model, the enterprises need to purchase not only infrastructure such as hardware 
+but also software licenses to establish an IT system, and need specialized personnel to maintain. It needs 
+to upgrade various facilities including hardware and software to meet the demands when the scale of 
+business extends. For the enterprises, what they really need is only the tool which can complete the work 
+and improve efficiency but the hardware and software themselves. 
+
+For the individuals, we need to install much software to use the computer normally, but much software isn’t free, so it is very uneconomical for the users who don’t often use the software. Could have a kind of service that provides all the software we 
+need for us to rent? Thus we only need to pay a small amount of rent while we using it, so we can save 
+much money. We use electricity every day, which is supplied by the power station instead of our own 
+generators; we use water every day, which is supplied by the water plants instead of our own wells. This 
+mode saves resources greatly and facilitates our lives. Facing the problems brought by the computer, can 
+we use the computer resources like using water and electricity? These ideas eventually lead to the 
+emergence of cloud computing.  
+
+Cloud computing is a new kind of commercial computing model developed on the basis of grid 
+computing, public computing and SaaS. It can distribute computing tasks to the resources pool consisting 
+of massive computers, enabling different application systems to acquire computing power, storage space 
+and various software services according to needs. The ultimate goal of cloud computing is to provide 
+calculation, services and applications as a public facility for the public, So that people can use the 
+computer resources just like using water, electricity, gas and telephone. Therefore, the enterprises can 
+save many costs purchasing hardware and software. This paper introduces the definition of could 
+computing and its main service patterns, summarizes the characteristics, and focused on the key 
+technologies such as the data storage, data management and programming model. 
+
 Proposals focused on educational technology might address how digital learning platforms (like Moodle or Zoom) affect student engagement or learning outcomes. This could include case studies on technologies implemented in classroom settings.In proposals related to data science, technology is key; specifying the software (like Python, R, or machine learning frameworks) used in your research methodology communicates advanced technical understanding.proposals addressing climate change or environmental science might examine technological interventions such as renewable energy systems (solar panels, wind turbines) or environmental monitoring tools (IoT devices for data collection).
+
+
+Zhang, S., Yan, H. and Chen, X., 2012. Research on key technologies of cloud computing. Physics Procedia, 33, pp.1791-1797.
+
+https://www.sciencedirect.com/science/article/pii/S1875389212015994
 
 
 ## Initial Analysis of the Proposal
