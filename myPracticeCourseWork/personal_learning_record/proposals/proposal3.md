@@ -135,9 +135,9 @@ https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:q
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Other household members may overhear confidential conversations</li>
+        <li>Potential use of inesure home wifi networks</li>
+        <li>increased downtime if vpn or internet fails</li>
       </ol> 
     </td>
   </tr>
@@ -148,16 +148,16 @@ https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:q
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>X Expand availability of virtual phone counseling options </li>
+        <li>Pilot new digital wellbeing initiatives</li>
+        <li>Support staff with disabilities or accessibility </li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Targeted attacks on home networks</li>
+        <li>Hackers attampting to breach the vpn to access council systems</li>
+        <li>Exploitation of weak passwords or outdated software</li>
       </ol> 
     </td>
   </tr>
@@ -174,16 +174,16 @@ https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:q
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Encourages public sectors bodies including councils to adopt flexible</li>
+        <li>show the councils is complaint with national labour guidance</li>
+        <li>Support digital transformation</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Lower spending on office sapce, utitilies, heating and cleaning</li>
+        <li>Reduced need for desks, equipment, and on site facilities </li>
+        <li>Potential long term estate rationalisation</li>
       </ol> 
     </td>
   </tr>
@@ -194,16 +194,16 @@ https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:q
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Staff increasingly expect flexibility as a standard benefit</li>
+        <li>counsils seen as modern and employee focused </li>
+        <li>Helps to attract younger professional who value work life balance</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Capacity to handle concurrent remote users </li>
+        <li>High reliability and uptime </li>
+        <li>Strong encryption to protect sensitive counselling data</li>
       </ol> 
     </td>
   </tr>
