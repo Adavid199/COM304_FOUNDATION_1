@@ -150,7 +150,7 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
       <ol>
         <li>Capital expanditure buying hardware, server UPS, cooling </li>
         <li>operational expanditure montthly cloud service fees</li>
-        <li>idea</li>
+        <li>physical ssecurity and maintainance</li>
       </ol> 
     </td>
   </tr>
