@@ -14,6 +14,8 @@ Routers: Specialized devices that forward packets between subnetworks, ensuring 
 
 
 
+
+
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
