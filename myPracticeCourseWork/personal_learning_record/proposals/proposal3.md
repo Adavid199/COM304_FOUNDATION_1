@@ -213,8 +213,19 @@ https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:q
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+  Do counsellors have secure,council issued devices that meet cybersecurity standards.
+   
 * question 2
+  Is the VPN infrastructure capable of supporting all romote users without performannce issues.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+reduces reliance on physical infrastructure, improves scalability, resilience, and accessibility.requires careful planning for legacy systems, compliance, and cost management.
+
+Overall: a good idea if phased in with clear governance, training, and security measures.: supports hybrid work, continuity of services, and secure remote access.depends on staff training, device readiness, and strong authentication.effective if paired with managed devices, multi-factor authentication, and robust IT support. They increase flexibility and resilience.
+
+They reduce physical infrastructure dependence.
+
+They require strong planning around security, compliance, and support capacity.These proposals are good ideas in principle, but their success depends on careful phased implementation, clear governance, and investment in staff training and support.
 
