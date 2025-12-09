@@ -193,6 +193,9 @@ on cultural identities e.g. cultural similarities and differences towards wider 
         <li>Software Technology</li>
         <li>Connectivity Technologies</li>
         <li>IOT and egde integration
+
+
+
   
 
    
