@@ -4,6 +4,17 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+   Whencomputer networks link people as well as machines, they become social
+ networks, which we call computer-supported social networks (CSSNs). Three
+ forms of CSSNs are rapidly developing, each with its own desires and research
+ agendas. Members of virtual community want to link globally with kindred
+ souls for companionship, information, and social support from their homes
+ and workstations. White-collar workers want computer-supported cooperative
+ work(CSCW),unencumberedbyspatialdistance, whileorganizations see ben
+efits in coordinating complex work structures and reducing managerial costs
+ and travel time. Some workers want to telework from their homes, combining
+ employmentwithdomesticchoresandArcadianretreats; managementforesees
+ reduced building and real estate costs, and higher productivity.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
