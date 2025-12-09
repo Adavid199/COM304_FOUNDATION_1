@@ -146,8 +146,7 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
         <li>Acess to cloud regions in certain countreis</li>
       </ol> 
     </td>
-    
-      <ol>
+     <ol>
         <li>Capital expanditure buying hardware, server UPS, cooling </li>
         <li>operational expanditure montthly cloud service fees</li>
         <li>physical ssecurity and maintainance</li>
