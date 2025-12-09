@@ -109,8 +109,7 @@ Linking to examples (like Node-RED traffic light flows or WiringPi test scripts)
 
 This section is about tracing the roots of your proposal technologies back to your learning and research. By explicitly linking class sessions and personal study to your recommendations, you show that your proposal is well-founded, academically supported, and practically tested.
 
-
-https://www.london.ac.uk/sites/default/files/uploads/is1168-introduction-computer-systems-architecture-programming-study-guide.pdf
+[J. Matravers 2011, Introduction to computer systems architecture and programming, Course notes LSE](https://www.london.ac.uk/sites/default/files/uploads/is1168-introduction-computer-systems-architecture-programming-study-guide.pdf)
 
 NODE-RED
 Low code programming tool developed by IBM that connects hardware devices,APIS and online service together
