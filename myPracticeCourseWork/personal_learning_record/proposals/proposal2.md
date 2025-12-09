@@ -186,6 +186,7 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
 No need to maintain hardware, cooling systems, or server space on-site.Resources can be increased or decreased instantly based on demand — no need to purchase new servers.work
 Cloud providers handle hardware failures, security patches, and updates.Applications and systems are accessible from anywhere with internet connectivity.Spend only for what you use rather than investing in large upfront capital.Systems may need planned outages or phased migration.Assess which workloads are suitable for cloud vs. remaining on-prem.
 
@@ -195,4 +196,10 @@ Define security policies, access control, and compliance requirements.
 
 Plan data migration strategy and timeline.
 
-Choose between public, private, or hybrid cloud.
+Choose between public, private, or hybrid cloud. Migration Complexity: Systems may need planned outages or phased migration to avoid disruption.
+
+Workload Suitability: Not all workloads are ideal for cloud; some may need to remain on-premises.
+
+Security & Compliance: Policies for access control, data residency, and regulatory compliance must be defined.
+
+Cost Management: Beyond initial migration, total cost of ownership (TCO) must be carefully assessed to avoid hidden fees.Strategic Choice: Deciding between public, private, or hybrid cloud models is critical for balancing flexibility and control.
