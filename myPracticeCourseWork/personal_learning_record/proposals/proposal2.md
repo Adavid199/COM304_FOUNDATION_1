@@ -115,16 +115,16 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Running server in the cloud opens acesss to modern tools,Artificial intelligence,Big data and analytics,Automation and develop tools</li>
+        <li>low latency service for global user</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Data breaches from attackers exploiting misconfigurations or stolen credentials.</li>
+        <li>Account hijacking compromised admin account </li>
+        <li>Knock critical service offline</li>
       </ol> 
     </td>
   </tr>
@@ -141,15 +141,15 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Where data can be stored data residency</li>
+        <li>What data may leave the country</li>
+        <li>Acess to cloud regions in certain countreis</li>
       </ol> 
     </td>
-    <td>
+    
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Capital expanditure buying hardware, server UPS, cooling </li>
+        <li>operational expanditure montthly cloud service fees</li>
         <li>idea</li>
       </ol> 
     </td>
@@ -161,16 +161,16 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Upskilling IT staff in cloud technologies</li>
+        <li>Training employees to use cloud platforms and tools</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>New computer options</li>
+        <li>Ai and machine learning tools</li>
+        <li>Advanced data analytics</li>
       </ol> 
     </td>
   </tr>
