@@ -29,6 +29,40 @@ Proprietary software may become obsolete or unsupported without alternative opti
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+The National Science Foundation-funded Cen- 
+terfor Innovative Learning Technologies 
+(CILT) is designed to be a national resourcefor 
+stimulating research and development of tech- 
+nology-enabled solutions to critical problems 
+in K-14 science, math, engineering and tech- 
+Sherry HSI 
+Sean Brophy 
+Nancy Songer 
+Federal research and development projects 
+(R&D) have for several decades contributed sub- 
+stantially to our understanding of how to use 
+information technologies to improve learning. 
+New knowledge provided by cognitive, social, 
+and learning scientists, computer scientists, and 
+nology learning. The Center, launched at the 
+end $1997, is organized around four themes 
+identg5ed as areas where research is likely to 
+result in major gains in teaching and learning, 
+and sponsors research across disciplines and 
+institutions in its four themeareas. CILT 
+brings together experts in thefields fcogni- 
+tive science, educational technologies, com- 
+puter science, subject matter learning, and 
+engineering. It engages business through an 
+Industry Alliance Program and is also train- 
+ing postdoctoral students. CILT'sfounding 
+organizations are SR1 International's Center 
+for Technology in Learning, University of Cali- 
+fornia at Berkeley (School $Education and 
+Department of Computer Science), Vanderbil t 
+University's Learning Technology Center, and 
+the Concord Consortium.
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
