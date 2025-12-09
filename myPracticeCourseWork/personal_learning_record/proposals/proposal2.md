@@ -89,7 +89,7 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
 *You can use html tables in markdown*
  <table>
   <tr>
-    <th>Strength</th>
+    <th>Strength</th> you can increase or decrease computing power, storage, or network capacity instantly.
     <th>Weakness</th>
   </tr>
   <tr>
