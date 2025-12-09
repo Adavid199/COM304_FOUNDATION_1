@@ -113,7 +113,7 @@ Students were also encouraged to discuss with one another in class,
 which allowed some misconceptions to be cleared by the students 
 themselves.
 
-https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:qMPDgIyUTB07OCrv7j-7eFeTtP51rb72huTeaIl2r3truSLx83eVUBez2t3NwLBDwwHa_78oosIV
+https://d1wqtxts1xzle7.cloudfront.net/7175980/wellman_1996_-_computer_networks_as_social_networks-libre.pdf?1390850260=&response-content-disposition=inline%3B+filename%3DComputer_Networks_as_Social_Networks_Col.pdf&Expires=1765305860&Signature=doHy5VDsgqORKOwXAekYgCcnBx73EBHKcAMB8sYjhGhrXyLCW-XnwoOhenNRieL1bZw0NzA9T9cXwVPGGMObHtqLjPFw75U7cfadeMWUItAtlPK6UQzdvYxZWj86bxckg7YnbBWVGKCwRGVNj5YGxdDZqfr~0IpYEA9dY7MuZ5-UfeJP5ClHjdFIRTYEOb204-wJ-7Ug~M5bfhdOPK7bPxuWtVj77nUrCKE8Ehf7TITvqzoL8UBUjWHD8djTG0jejQSOoxHjd96WUCq7KGdVjS4cSgcZxM2W20JIkUW9WoDbbH2BPMoAssPRFLC-JJqDmcJXfKTaATScuv0FUkDbkQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
