@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 1
+# Council Proposal 2
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
@@ -49,6 +49,9 @@ This proposal provides a structured approach to ensure a secure, scalable, and c
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
+Proposals focused on educational technology might address how digital learning platforms (like Moodle or Zoom) affect student engagement or learning outcomes. This could include case studies on technologies implemented in classroom settings.In proposals related to data science, technology is key; specifying the software (like Python, R, or machine learning frameworks) used in your research methodology communicates advanced technical understanding.proposals addressing climate change or environmental science might examine technological interventions such as renewable energy systems (solar panels, wind turbines) or environmental monitoring tools (IoT devices for data collection).
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
