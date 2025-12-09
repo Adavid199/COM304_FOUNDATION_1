@@ -48,6 +48,62 @@ Functionality: Equipped with sensors (e.g., infrared, cameras, or motion detecto
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Previously, the description of museum artefacts was largely dependent on tour guides 
+and information cards (Marshal at al., 2016). Today, these concepts tend to be digitalised. 
+Along with the development of mobile and tangible technologies, museums have started 
+to present descriptions of museum artefacts through multimedia content using mobile 
+applications or tangible interaction systems. Although the use of multimedia 
+presentations in museums has improved the museum visiting experience, the interaction 
+between museum artefacts and visitors are still lacking and mostly passive in nature. Most often, the cultural heritage artefacts cannot be touched by visitors. Recent research 
+has focused on using physical replicas to overcome this lack of interactions to make 
+museums and their artefacts more engaging for visitors. Emerging technologies such as 
+3D printing and Internet of Things (IoT) have been used to create tangible smart replicas 
+to access an additional layer of content that complements the traditional factual 
+information that is generally provided about artefacts in a museum (Marshal at al., 2016). Other research has explored the use of digital technologies with games to improve 
+museum visiting experiences. For example, to enhance learners’ motivation to learn 
+about fossil in a museum, Yoshida et al. (2015) developed a virtual paleontological 
+environment to support experiential learning with entertainment. Such games, designed 
+for a primary purpose other than pure entertainment is known as serious games 
+(Lamaarti et al., 2014). From the review study conducted by Lamaarti et al. (2014), many 
+serious games have been developed for promoting cultural learning (Sagae et al., 2010; 
+Froschauer et al., 2011; Bellotti et al., 2012). However, current research studies on 
+serious games are still limited to mobile and desktop games where users often learn 
+about culture and history from the vicinity of their homes (Susi et al., 2007; Coenen et 
+al., 2013; Antoniou et al., 2013). The role of museums itself has changed over the years as education is not the only goal 
+for visitors to visit a museum (Kaplan, 1993). Museums now find that they play an 
+increasing role in supporting the development of communities other than their traditional 
+role of collecting, preserving and sharing rich collections. Museums can help emphasise 
+the uniqueness of community’s identity and be able to bring different community groups 
+together. By having an open access to objects, information and knowledge visitors can 
+see for themselves how cultures may be reflected in ways that encourage new 
+connections (Kelly, 2007). Technologies that focus strictly on the learning goal of visitors.
+
+https://eprints.nottingham.ac.uk/60804/1/Thesis_HuangHai_Final_edit.pdf
+
+The technological revolution has had a major impact upon museums, and many of them 
+make very effective use of a wide variety of interactive technologies. However, there is 
+a paradoxical concern that technologies that focus too much on learning goals can 
+distract from the meaning making processes, which are the very things that the 
+technology is trying to promote (Cosley et al., 2008). The key issue is to consider how 
+the technology promotes discussion and reflection in order to facilitate meaning making.  
+Designers have demonstrated an increased interest in designing for reflection (Sengers 
+et al., 2005; Baumer, 2015). Reflection can be described as a “generic term for those 
+intellectual and affective activities in which individuals engage to explore their 
+experiences in order to lead to new understandings and appreciations” (Boud et al., 
+1985). Fleck and Fitzpatrick (2010) further synthesized the literature on reflection into a 
+framework consisting of different levels of reflection. There have been some examples 
+of how technology can be used to support reflection in learning (Lin et al., 1999), teaching 
+(Fleck & Fitzpatrick,2009), health (Mamykina et al., 2008), persuasive behaviour 
+(Ghajargar et al., 2018), personal informatics (Li et al., 2010) and design (Gaver et al., 
+2003). Although, there has been some studies that focussed on exploring possible 
+approaches to reflective design in cultural settings, little evidence is provided so far to 
+suggest their effectiveness in engaging visitors in reflective thoughts (Baumer et al., 
+2014). In times of increasing ethnic tensions throughout the world, the role of museums 
+as repositories of heritage is ever more important to help people understand and reflect 
+on cultural identities e.g. cultural similarities and differences towards wider national unity. 
+
+
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
