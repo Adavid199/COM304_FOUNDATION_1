@@ -179,7 +179,10 @@ https://www.sciencedirect.com/science/article/pii/S1875389212015994
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* what are business problems are we trying to solve by moving to the cloud.
+* 
 * question 2
+* which system are mission critical and should they move first
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
