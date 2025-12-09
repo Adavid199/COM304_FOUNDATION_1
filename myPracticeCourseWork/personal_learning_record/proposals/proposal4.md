@@ -194,18 +194,22 @@ on cultural identities e.g. cultural similarities and differences towards wider 
         <li>Connectivity Technologies</li>
         <li>IOT and egde integration
   
-       </li>
-      </ol> 
-    </td>
-  </tr>
-</table> 
+
+   
 
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+   which entrance or areas should be monitored, and what is expected accuracy
+  
 * question 2
 
+  Can Raspberry PI handle peak traffic volumes infrastucture
+
 ## Evaluation of the proposal
-*Povide a breif evaluation based on what you know*
+
+*Povide a breif evaluation based on what you know.
+
+Low-cost and flexible hardware (Raspberry Pi is affordable compared to commercial systems). Supports real-time data collection for visitor numbers. Scalable across multiple sites with minimal infrastructure. Enables data-driven decisions for staffing, opening hours, and resource allocation. cost-effective and innovative idea that aligns with the council’s modernization goals. It provides valuable operational insights but requires careful planning around accuracy, privacy, and integration into existing systems to ensure the data is trustworthy and actionable. Using Raspberry Pi IoT devices for visitor counting is a good idea in principle, offering affordability and useful analytics, but its success depends on strong sensor calibration, compliance safeguards, and reliable integration.
 
