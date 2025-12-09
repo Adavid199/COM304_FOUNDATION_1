@@ -76,6 +76,32 @@ tinuously connected. Given such uncertainties and the tendency of enthusiasts
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+interaction system, to support a style of teaching that revolves 
+around the practice of students working through examples in class, 
+and student results being then incorporated on-the-fly into the class
+room discussion.  The role of the technology – discussed in more 
+detail in Section 3 – was to make the distribution and collection of 
+work instantaneous, and to allow the instructor to anonymously 
+display student work to the class in the same format as lecture 
+slides. 
+Through this case study of using technology to support a particular 
+pedagogical approach in a specific course, we hope to illustrate two 
+broader issues that relate to classroom technology and pedagogy: 
+• how technology-enhanced instruction can support peda
+gogical choices; and 
+• the importance of having clear pedagogical goals when 
+incorporating new technology into the classroom. One type of activity used in the class was giving students specific 
+instances of a problem to work on before any algorithms for solving 
+that problem were discussed.  The instructor had multiple goals in 
+having students work on examples at the start of a new topic.  These 
+goals included: verifying that students understand the problem under 
+consideration; having the students discover aspects of the problem 
+in advance of the follow-up classroom discussion; using student 
+solutions to illustrate properties of the problem; and engaging the 
+students with formalizing an algorithmic solution to the problem, 
+after having attempted to use ad hoc methods for solving it.  Below, 
+we elaborate on each of these four goals. 
+https://dl.acm.org/doi/pdf/10.1145/1227504.1227338?casa_token=Ksd8_ceKw1oAAAAA:qMPDgIyUTB07OCrv7j-7eFeTtP51rb72huTeaIl2r3truSLx83eVUBez2t3NwLBDwwHa_78oosIV
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
