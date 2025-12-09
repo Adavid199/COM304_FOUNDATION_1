@@ -70,8 +70,8 @@ tinuously connected. Given such uncertainties and the tendency of enthusiasts
  and marketers to forecast high levels of network membership, many estimates
  of the number of users are unreliable.
  There is little published information about the demographic composition of
- Netusers, althoughthisshouldchangeasitdevelopsasacommercialmarketing
- milieu. Thereisgeneralagreementthatusersarelargelypoliticallyconservative
+ Netusers, although this should change it to develop commercial marketing
+ There is general agreement that users are largely politically conservative
 
 
 ## Technologies and research relevant to this proposal
