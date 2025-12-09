@@ -6,7 +6,9 @@
 *What topics were covered in this session*
 
 Introduction to Networking: Networking refers to the process of linking two or more computers or devices so they can communicate and exchange information. Networks allow users to share resources such as files, printers, and internet connections, and enable services like email, video conferencing, and cloud computing. Network enhances efficiency, collaboration, and resource sharing. It supports internet access, telecommunication, cloud computing, online gaming, and enterprise operations. It also ensures data redundancy and backup capabilities across devices.
-Understanding networking lays the foundation for deeper studies in areas like network security, wireless communication, and network administration, making it a crucial skill for IT professionals and everyday technology users.
+Understanding networking lays the foundation for deeper studies in areas like network security, wireless communication, and network administration, making it a crucial skill for IT professionals and everyday technology users. Computers (hosts/servers/workstations): Endpoints that originate or consume traffic. They usually have multiple interfaces (e.g., Wi-Fi, Ethernet).
+
+Routers: Specialized devices that forward packets between subnetworks, ensuring data travels from source to destination.
 
 
 
