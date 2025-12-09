@@ -117,16 +117,16 @@ on cultural identities e.g. cultural similarities and differences towards wider 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Flexible sensor compability</li>
+        <li>small Physical Footprint</li>
+        <li>low cost and highly accessible</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Limited processing Power</li>
+        <li>Reliance on External storage</li>
+        <li>Network Dependance</li>
       </ol> 
     </td>
   </tr>
@@ -137,16 +137,16 @@ on cultural identities e.g. cultural similarities and differences towards wider 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Track how many people are inside at any moment.</li>
+        <li>Help manage capacity limits, social distancing, or safety regulation</li>
+        <li>identity peak hours, seasonal trends, and popular exhibits or sections.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>SD card corruption from power loss or frequent writes </li>
+        <li>Failure due to heats, dust or humidity</li>
+        <li>delay alarts or notification</li>
       </ol> 
     </td>
   </tr>
@@ -163,16 +163,16 @@ on cultural identities e.g. cultural similarities and differences towards wider 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Adoption of low cost technologies like raspberry Pi</li>
+        <li>fire safety occupancy limits</li>
+        <li>\Emergency evacuation protocols</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>low initial cost</li>
+        <li>Reduced Operational cost</li>
+        <li>cost effecive data analytics</li>
       </ol> 
     </td>
   </tr>
@@ -183,16 +183,18 @@ on cultural identities e.g. cultural similarities and differences towards wider 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improve public safety</li>
+        <li>Data Transarency and trust</li>
+        <li>Encourage of smart and inclusive culture</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Software Technology</li>
+        <li>Connectivity Technologies</li>
+        <li>IOT and egde integration
+  
+       </li>
       </ol> 
     </td>
   </tr>
