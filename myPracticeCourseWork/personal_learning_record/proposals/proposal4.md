@@ -32,7 +32,14 @@ profit organizations focussed on coding. It also helps to raise awareness surrou
  this proved to be challenging in the first version of the manual which is why the scope
  of programs included to accomplish successful installation had to be expanded by
  adding an assistant tool and some scripts that automated or facilitated file-editing
- tasks.
+ tasks. In doing so this thesis wishes to inscribe itself in the DH-tradition of makers and
+ Minimal Computing workgroups who have been using this machine in a variety of
+ projects. As a concluding remark it was found that the Raspberry Pi is a capable, yet
+ cost-effective machine that can be applied in a wide variety of contexts. Yet applying
+ the machine itself is not a trivial task. First of all there are some limitations that
+ accompany this machine. Secondly this machine is not targeted towards being used
+ as an off-the-shelve device, meaning that a moderate amount of effort has to be put
+ in to make it run as desired. This can be quite challenging as there’s a learning-curve
 
 Strategic Fit: This aligns with other modernization proposals on the page (like cloud migration and AI simplification), all aimed at making council operations more efficient and data-driven.
 
