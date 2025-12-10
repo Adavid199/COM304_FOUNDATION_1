@@ -168,16 +168,16 @@ could be used across some range of projects
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Most open source tools have no licensing fees</li>
+        <li>Reduces long term operational expenses.</li>
+        <li>Remove unneccesary component</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>More technical expertise to install customize and maintain</li>
+        <li>Commercial support usually requires third party contracts.</li>
+        <li>Many source project rely on community support instead of a professional help desk</li>
       </ol> 
     </td>
   </tr>
@@ -188,16 +188,16 @@ could be used across some range of projects
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>No licensing fees or minimal fees</li>
+        <li>Reduced vendors lock in cost </li>
+        <li>Lower long term upgrade and scaling costs</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Lack of official support and accountability</li>
+        <li>Abandoned by maintainers</li>
+        <li>Lacking long term development roadmap </li>
       </ol> 
     </td>
   </tr>
@@ -214,16 +214,16 @@ could be used across some range of projects
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Maintain control over security, update, and long term accesss </li>
+        <li>Ensure that crucial system cannot be shut off by sanctions or licensing changes</li>
+        <li>Transparency is seen as a democratic value</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>No licensing fees</li>
+        <li>large deployment many users</li>
+        <li>No per user or per device chargers</li>
       </ol> 
     </td>
   </tr>
@@ -234,16 +234,17 @@ could be used across some range of projects
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Lower cost
+       </li>
+        <li>Ability to reproduce experiment </li>
+        <li>Cost savings</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Server slide infrastructure and operating systems</li>
+        <li>Cloud Native and devops toolings</li>
+        <li>Databases and data stores</li>
       </ol> 
     </td>
   </tr>
