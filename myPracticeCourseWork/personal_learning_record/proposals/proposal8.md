@@ -226,8 +226,17 @@ agencies and other actors.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+  How can Ai reduce wait time for customer service and citizen inquiries
+  
 * question 2
+  How much staff time is spent on routine tasks that AI could handle
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+The proposal is a strong modernization step because AI can automate routine tasks, improve customer service through chatbots, and enable predictive analytics for better resource allocation. This directly addresses the questions raised in the document about reducing wait times and freeing staff from repetitive work. It also aligns with the PEST analysis, where AI supports smarter economic resource use, social service scheduling, and technological workflow automation. However, risks include over‑reliance on algorithms, potential bias in decision‑making, and the need for clear governance frameworks to ensure transparency and accountability. Staff training and citizen trust will be critical to successful adoption.
+
+Overall, the proposal offers efficiency and responsiveness gains, but its success depends on careful implementation, ethical oversight, and inclusive design to avoid digital exclusion. Shifting to a digital-first approach — where the council’s website and app become the primary gateways for public engagement — is generally seen as a modern, efficient way to deliver services. It can streamline processes, reduce administrative workload, and give residents faster, 24/7 access to information and transactions. It also supports better data collection, enabling more informed decision-making and improved service planning.However, its success depends on strong implementation: platforms must be reliable, easy to use, well-integrated with back-office systems, and accessible to people with varying digital skills. The approach also risks widening digital exclusion if adequate support isn’t provided for those who cannot or prefer not to use digital tools. Ongoing maintenance, cybersecurity, and staff training are essential to keep services secure and effective.   
+
+
 
