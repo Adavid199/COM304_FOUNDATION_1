@@ -141,16 +141,16 @@ agencies and other actors.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Enhanced Citizen service</li>
+        <li>Improved decision making</li>
+        <li>Cost saving</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>CCost and resource costraints</li>
+        <li>Ehthical and social concern</li>
+        <li>developing or purchasing AI system and training staff can be expensive</li>
       </ol> 
     </td>
   </tr>
@@ -161,16 +161,16 @@ agencies and other actors.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Admistrative and document management</li>
+        <li>Data and decision making</li>
+        <li>public engagement</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Data privacy and security risk</li>
+        <li>Loss of human oversight</li>
+        <li>Operational and technical challenges</li>
       </ol> 
     </td>
   </tr>
@@ -187,16 +187,16 @@ agencies and other actors.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Establish a clear AI governance</li>
+        <li>Reform legislation to enable automated</li>
+        <li>Mand digital first public service</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improve customer service with AI chart board </li>
+        <li>Predictive maintenance</li>
+        <li>Smarter resource allocation </li>
       </ol> 
     </td>
   </tr>
@@ -207,16 +207,16 @@ agencies and other actors.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Predictive analytics for social service</li>
+        <li>Smart shceduling for community programs</li>
+        <li>Intelligent case management in social</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Smart city and infrastructure managemnent</li>
+        <li>Internal workflow automation</li>
+        <li>Planning assets and regulatory service</li>
       </ol> 
     </td>
   </tr>
