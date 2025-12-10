@@ -52,16 +52,16 @@ resulted in minimal effects on the amount of public attention they receive onlin
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improved Accessibility and convenience</li>
+        <li>Consistent controlled imformation</li>
+        <li>Increase digital service</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Acessibility Challenges</li>
+        <li>Technical reliability and maintainance</li>
+        <li>Security and private risk</li>
       </ol> 
     </td>
   </tr>
@@ -72,16 +72,16 @@ resulted in minimal effects on the amount of public attention they receive onlin
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Unified Consistant user experience</li>
+        <li>Create a single design system used across the website and app</li>
+        <li>Ensure seamless transaction between web and app so they feel one service</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Digital Eclusion and Accessibility risk </li>
+        <li>Security privacy and data protection threats </li>
+        <li>Reliability and performance risk</li>
       </ol> 
     </td>
   </tr>
@@ -98,16 +98,16 @@ resulted in minimal effects on the amount of public attention they receive onlin
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Adopt a clear approved digital first policy mandate</li>
+        <li>The council website and app are the promary access channels for services</li>
+        <li>Embed digital first requirements in corporate and service planes</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improve the digital experience low cost enhanement</li>
+        <li>promote digital first through smart channel shift</li>
+        <li>Automate high volume, low complexity tasks</li>
       </ol> 
     </td>
   </tr>
@@ -118,16 +118,16 @@ resulted in minimal effects on the amount of public attention they receive onlin
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Build social trust and normalise digital use</li>
+        <li>Run community demostations and digital support sessions</li>
+        <li>Make digital the default in conversations with residents</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Modern user centric digital platform/li>
+        <li>Single sign on and resident identity</li>
+        <li>Integrated service delivery</li>
       </ol> 
     </td>
   </tr>
