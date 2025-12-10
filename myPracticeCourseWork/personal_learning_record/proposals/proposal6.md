@@ -5,6 +5,18 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+This is about citizen interaction: ensuring that the public’s primary way of dealing with the council is through digital, The website and app would act as central gateways, offering streamlined access to services such as paying bills, booking appointments, reporting issues, or finding information.platforms.“digital first” signals a strategic priority: digital channels should be the default, with traditional methods becoming secondary or fallback options. Proposal 6 is about making online engagement the norm for council services, aligning with broader modernization efforts across the other proposals.To modernise service delivery by prioritising digital channels that are accessible, efficient, and user-friendly, improving the public’s overall experience and reducing operational costs.Centralise access to services by directing the public to a single online platform (website + app). Improve convenience by enabling 24/7 access to information, applications, payments, and service requests. Enhance engagement through digital tools such as notifications, service tracking, personalised accounts, and integrated feedback options.Increase operational efficiency by reducing manual processing, phone enquiries, and paper-based transactions. Support digital transformation and improve transparency by making information and processes more visible and accessible. While digital-first will be the primary model, the council will maintain alternative channels for residents who are unable to access online services. Support initiatives may include digital skills training, public access kiosks, and assisted service options at council offices.Faster response times and streamlined service delivery
+
+Cost savings from reduced printing, postage, and manual processing
+
+Higher customer satisfaction through self-service and transparency
+
+Better data insights to help shape service improvements
+
+Scalable infrastructure for future digital enhancements
+ 
+
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
