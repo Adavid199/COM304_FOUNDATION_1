@@ -209,9 +209,15 @@ software development practices.
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
 
+* question 1
+  How will responsibities shift between developers, business analyst,and citizen developers.
+  
+* question 2
+  How will version control, testing, and debugging be managed in a low code/ No code environment
+  
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+The proposal represents a forward‑looking shift that could significantly improve delivery speed and broaden participation in application development. By reducing reliance on highly skilled programmers, it empowers business analysts and even non‑technical staff to contribute directly, which aligns with the PEST analysis points about autonomy, transparency, and reducing misunderstandings between technical and non‑technical teams. Coupling this with agile project management ensures iterative progress, adaptability, and closer alignment with user needs. However, risks remain: technical debt may still accumulate if governance and version control are not carefully managed, and complex systems may outgrow the capabilities of low‑code/no‑code platforms. Security, compliance, and long‑term maintainability must be actively addressed. Overall, the proposal is a strong modernization step that supports efficiency and inclusivity, but its success depends on clear processes for testing, debugging, and oversight to balance agility with reliability. The model also supports better data collection, meaning patterns in service requests can be analysed to improve planning and resource allocation. Features like notifications, tracking requests, and personalised accounts can enhance transparency and trust in service delivery.  However, the success of the proposal depends heavily on execution. Not all residents have digital access or confidence online, so digital inclusion support and alternative contact channels must remain available. The council would also need to ensure strong cybersecurity, ongoing technical support, and regular updates to keep the platforms functional, secure, and user-friendly. Change management — both internally and across the community — would be a key factor. 
 
