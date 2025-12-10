@@ -37,32 +37,7 @@ Provide assisted digital options at council offices. Use data from the website/a
 
 Regularly update the platforms with new features and services.
 
-Adjust internal processes based on user feedback and analytics. The proposal essentially aims to make digital platforms the main gateway for engaging with the council, improving efficiency and convenience while still supporting residents who need non-digital access. Implementation typically involves redesigning services, building strong digital infrastructure, promoting adoption, and maintaining inclusivity.  Artificial Intelligence (AI) has the potential to help address some of the biggest challenges that society 
-faces. Smart vehicles may save hundreds of thousands of lives every year worldwide, and increase 
-mobility for the elderly and those with disabilities. Smart buildings may save energy and reduce carbon 
-emissions. Precision medicine may extend life and increase quality of life. Smarter government may serve 
-citizens more quickly and precisely, better protect those at risk, and save money. AI-enhanced education 
-may help teachers give every child an education that opens doors to a secure and fulfilling life. These are 
-just a few of the potential benefits if the technology is developed with an eye to its benefits and with 
-careful consideration of its risks and challenges. 
-The United States has been at the forefront of foundational research in AI, primarily supported for most of 
-the field’s history by Federal research funding and work at government laboratories.  The Federal 
-Government’s support for unclassified AI R&D is managed through the Networking and Information 
-Technology Research and Development (NITRD) program, and supported primarily by the Defense 
-Advanced Research Projects Agency (DARPA), the National Science Foundation (NSF), the National 
-Institutes of Health (NIH), the Office of Naval Research (ONR), and the Intelligence Advanced Research 
-Projects Activity (IARPA). Major national research efforts such as the National Strategic Computing 
-Initiative, the Big Data Initiative, and the Brain Research through Advancing Innovative 
-Neurotechnologies (BRAIN) Initiative also contribute indirectly to the progress of AI research. The 
-current and projected benefits of AI technology are large, adding to the Nation’s economic vitality and to 
-the productivity and well-being of its people. A companion document lays out a strategic plan for 
-Federally-funded research and development in AI. 
-As a contribution toward preparing the United States for a future in which AI plays a growing role, we 
-survey the current state of AI, its existing and potential applications, and the questions that progress in AI 
-raise for society and public policy. We also make recommendations for specific further actions by Federal 
-agencies and other actors. 
-
-https://www.alain-bensoussan.com/wp-content/uploads/2017/06/preparing_for_the_future_of_ai.pdf
+Adjust internal processes based on user feedback and analytics. The proposal essentially aims to make digital platforms the main gateway for engaging with the council, improving efficiency and convenience while still supporting residents who need non-digital access. Implementation typically involves redesigning services, building strong digital infrastructure, promoting adoption, and maintaining inclusivity. 
 
 
 
@@ -103,8 +78,55 @@ as it is to tease apart this complex interplay, it is important for us to do our
 document this process.
 
 
+https://www.alain-bensoussan.com/wp-content/uploads/2017/06/preparing_for_the_future_of_ai.pdf
 
-
+Artificial Intelligence (AI) has the potential to help address some of the biggest challenges that society 
+faces. Smart vehicles may save hundreds of thousands of lives every year worldwide, and increase 
+mobility for the elderly and those with disabilities. Smart buildings may save energy and reduce carbon 
+emissions. Precision medicine may extend life and increase quality of life. Smarter government may serve 
+citizens more quickly and precisely, better protect those at risk, and save money. AI-enhanced education 
+may help teachers give every child an education that opens doors to a secure and fulfilling life. These are 
+just a few of the potential benefits if the technology is developed with an eye to its benefits and with 
+careful consideration of its risks and challenges. 
+The United States has been at the forefront of foundational research in AI, primarily supported for most of 
+the field’s history by Federal research funding and work at government laboratories.  The Federal 
+Government’s support for unclassified AI R&D is managed through the Networking and Information 
+Technology Research and Development (NITRD) program, and supported primarily by the Defense 
+Advanced Research Projects Agency (DARPA), the National Science Foundation (NSF), the National 
+Institutes of Health (NIH), the Office of Naval Research (ONR), and the Intelligence Advanced Research 
+Projects Activity (IARPA). Major national research efforts such as the National Strategic Computing 
+Initiative, the Big Data Initiative, and the Brain Research through Advancing Innovative 
+Neurotechnologies (BRAIN) Initiative also contribute indirectly to the progress of AI research. The 
+current and projected benefits of AI technology are large, adding to the Nation’s economic vitality and to 
+the productivity and well-being of its people. A companion document lays out a strategic plan for 
+Federally-funded research and development in AI. 
+As a contribution toward preparing the United States for a future in which AI plays a growing role, we 
+survey the current state of AI, its existing and potential applications, and the questions that progress in AI 
+raise for society and public policy. We also make recommendations for specific further actions by Federal 
+agencies and other actors. Artificial Intelligence (AI) has the potential to help address some of the biggest challenges that society 
+faces. Smart vehicles may save hundreds of thousands of lives every year worldwide, and increase 
+mobility for the elderly and those with disabilities. Smart buildings may save energy and reduce carbon 
+emissions. Precision medicine may extend life and increase quality of life. Smarter government may serve 
+citizens more quickly and precisely, better protect those at risk, and save money. AI-enhanced education 
+may help teachers give every child an education that opens doors to a secure and fulfilling life. These are 
+just a few of the potential benefits if the technology is developed with an eye to its benefits and with 
+careful consideration of its risks and challenges. 
+The United States has been at the forefront of foundational research in AI, primarily supported for most of 
+the field’s history by Federal research funding and work at government laboratories.  The Federal 
+Government’s support for unclassified AI R&D is managed through the Networking and Information 
+Technology Research and Development (NITRD) program, and supported primarily by the Defense 
+Advanced Research Projects Agency (DARPA), the National Science Foundation (NSF), the National 
+Institutes of Health (NIH), the Office of Naval Research (ONR), and the Intelligence Advanced Research 
+Projects Activity (IARPA). Major national research efforts such as the National Strategic Computing 
+Initiative, the Big Data Initiative, and the Brain Research through Advancing Innovative 
+Neurotechnologies (BRAIN) Initiative also contribute indirectly to the progress of AI research. The 
+current and projected benefits of AI technology are large, adding to the Nation’s economic vitality and to 
+the productivity and well-being of its people. A companion document lays out a strategic plan for 
+Federally-funded research and development in AI. 
+As a contribution toward preparing the United States for a future in which AI plays a growing role, we 
+survey the current state of AI, its existing and potential applications, and the questions that progress in AI 
+raise for society and public policy. We also make recommendations for specific further actions by Federal 
+agencies and other actors.   
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
