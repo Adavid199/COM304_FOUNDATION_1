@@ -37,7 +37,34 @@ Provide assisted digital options at council offices. Use data from the website/a
 
 Regularly update the platforms with new features and services.
 
-Adjust internal processes based on user feedback and analytics. The proposal essentially aims to make digital platforms the main gateway for engaging with the council, improving efficiency and convenience while still supporting residents who need non-digital access. Implementation typically involves redesigning services, building strong digital infrastructure, promoting adoption, and maintaining inclusivity.
+Adjust internal processes based on user feedback and analytics. The proposal essentially aims to make digital platforms the main gateway for engaging with the council, improving efficiency and convenience while still supporting residents who need non-digital access. Implementation typically involves redesigning services, building strong digital infrastructure, promoting adoption, and maintaining inclusivity.  Artificial Intelligence (AI) has the potential to help address some of the biggest challenges that society 
+faces. Smart vehicles may save hundreds of thousands of lives every year worldwide, and increase 
+mobility for the elderly and those with disabilities. Smart buildings may save energy and reduce carbon 
+emissions. Precision medicine may extend life and increase quality of life. Smarter government may serve 
+citizens more quickly and precisely, better protect those at risk, and save money. AI-enhanced education 
+may help teachers give every child an education that opens doors to a secure and fulfilling life. These are 
+just a few of the potential benefits if the technology is developed with an eye to its benefits and with 
+careful consideration of its risks and challenges. 
+The United States has been at the forefront of foundational research in AI, primarily supported for most of 
+the field’s history by Federal research funding and work at government laboratories.  The Federal 
+Government’s support for unclassified AI R&D is managed through the Networking and Information 
+Technology Research and Development (NITRD) program, and supported primarily by the Defense 
+Advanced Research Projects Agency (DARPA), the National Science Foundation (NSF), the National 
+Institutes of Health (NIH), the Office of Naval Research (ONR), and the Intelligence Advanced Research 
+Projects Activity (IARPA). Major national research efforts such as the National Strategic Computing 
+Initiative, the Big Data Initiative, and the Brain Research through Advancing Innovative 
+Neurotechnologies (BRAIN) Initiative also contribute indirectly to the progress of AI research. The 
+current and projected benefits of AI technology are large, adding to the Nation’s economic vitality and to 
+the productivity and well-being of its people. A companion document lays out a strategic plan for 
+Federally-funded research and development in AI. 
+As a contribution toward preparing the United States for a future in which AI plays a growing role, we 
+survey the current state of AI, its existing and potential applications, and the questions that progress in AI 
+raise for society and public policy. We also make recommendations for specific further actions by Federal 
+agencies and other actors. 
+
+https://www.alain-bensoussan.com/wp-content/uploads/2017/06/preparing_for_the_future_of_ai.pdf
+
+
 
 
 ## Technologies and research relevant to this proposal
@@ -75,7 +102,7 @@ opposed to technological control achieved through interoperability. As challengi
 as it is to tease apart this complex interplay, it is important for us to do our best to
 document this process.
 
-https://watermark02.silverchair.com/jjcmcom0764.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2AwggNcBgkqhkiG9w0BBwagggNNMIIDSQIBADCCA0IGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM4A033Y-H69Pajst_AgEQgIIDE_g3h_m_5BWu-nWdhIU7BPAHwJBeaKB58DPotmbVqCFbGwB9A_Rlp5py_xHn1XT3pVET39F6qb05uOvvN7FM_WVAqjIIwod9G9D0B9nt30rauVe6i_t1nTdrUGtRJ-8xGWme0U_RfmqZgFHCI6QETb7ueixM-2EnElGpdcHp18rMVewN2DvR9toOAGi6wLAkBgCmoqr8VCJUdpo-pZA0ZoultzfjqryHI_fNnuoZD3x-Qm9P1a35viFR53fgEbw2F1uXhLF3bchax23CoaA1Pm9i6S83iJwrmMfcJ72h_RLlOmiX3NksDQMkQ1UjW0WYrL8kJg60u0dGJDjxYYDe4rnfCvsNknv4_cMLYevcv8HFJecR03Kc6WlgFg6i7JjsVqxxJJToUMpa5Llqf3j5DDlYGfIZMR3XZhCKDvC6IGE3XEq3trGFgxQ02Dxjpv-NOKdQY4jm8iIBAPuAuAZljlmsdWVTputQDFXIDs0eP3DEq7ss9TO9lyZTGGSPKEN1p_EfiBVonOfu-D5208AhPbbpV6jFm_dzyYu_D_FtX621lSQ_G8H-mZsDW-Xp63TXU-7stjQzFoM-eCJBSvh6Vvy_k0FlKwFkVaITADXdyEHyTxwQ1jMXFnelHMpn4TJ3lm0TrZyDWUaSBEoUd5GgG4wl-tO9dpE6VTlKyAzt1j-RPT4pn0orzVE-_isR5ksaAntVHSVp3uP0VgNyGfdioCjgoHlfr1qaXpgZPpWBqPriWnf5pg_8MDkuGG-esgNpQc9hjQDqjXfMBVdML-WkZl_RfxvgkHqJYh_wL07aRLe7GPuHaw3Tte9s630Agipz-bmBzK8KlRT5odjDyjYvXD4ioAm1ry9im9bnLirmrR2-4Uzm3S3x15k52qWB4Pg_7pfhAyHUEoQhyUktuBLVWa3tZ7ysx3XMrsG4Zo_WsoPSyMF_jaoaZcBHUaEGkx8_x6eTTlgUCaQ96HN4p9fSk0yCGuvLgLH-3PXe0m5hetsJQpooYObEDOPvRfm8aw0GSujtD_OF9PLxLvgPKIg64vnJ50Y
+
 
 
 
