@@ -137,7 +137,10 @@ resulted in minimal effects on the amount of public attention they receive onlin
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+ which problems or inefficiencies should the new website and app solve.
+ 
 * question 2
+  How will we ensure inclusive access for people with low digital literacy.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
