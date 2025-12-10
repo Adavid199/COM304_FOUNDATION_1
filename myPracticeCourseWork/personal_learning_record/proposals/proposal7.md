@@ -103,7 +103,7 @@ By understanding the nuances of these approaches, organizations
 can navigate the ever-changing landscape of software development 
 with agility and innovation. The key lies in leveraging the strengths 
 of each paradigm to drive efficient, collaborative, and ethical 
-software development practices
+software development practices.
 
 
 
@@ -125,16 +125,16 @@ software development practices
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>high scalability and performance</li>
+        <li>Stronge security and complaince</li>
+        <li>long term Maintainability</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Slow development speed </li>
+        <li>Higher technical skills requirement</li>
+        <li>More maintenace effort</li>
       </ol> 
     </td>
   </tr>
@@ -145,16 +145,16 @@ software development practices
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>opportunities from traditional to low code and no code</li>
+        <li>Empower citizen developers</li>
+        <li>opportunity to iterate quickly in in response to business needs or regulatory</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li> loss of control and customization</li>
+        <li>Security and complaince risk</li>
+        <li>Technical debt and vendor lock in</li>
       </ol> 
     </td>
   </tr>
@@ -164,23 +164,23 @@ software development practices
 *You can use html tables in markdown*
 
  <table>
-  <tr>
+  <tr
     <th>Political</th>
     <th>Economic</th>
   </tr>
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>understanding the political landscape</li>
+        <li>Define clear approval processes</li>
+        <li>Allow bussiness user some autonomy without threatning IT complaince</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Require skilled developers who command high salaries</li>
+        <li>High cost for maintaining legacy code</li>
+        <li>custom code trend to accumulate technical debt</li>
       </ol> 
     </td>
   </tr>
@@ -191,16 +191,16 @@ software development practices
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Changing roles and Mindset</li>
+        <li>Encourage transparency and trust</li>
+        <li>Reduce misunderstandings between technical and non technical team members</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Built in connectors to databases, cloud service, and APIs</li>
+        <li>Platforms handle hosting, scaling and update automatically</li>
+        <li>Devolopers focus on bussiness logic</li>
       </ol> 
     </td>
   </tr>
