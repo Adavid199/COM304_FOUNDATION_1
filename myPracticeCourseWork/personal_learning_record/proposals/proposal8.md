@@ -37,11 +37,12 @@ Provide assisted digital options at council offices. Use data from the website/a
 
 Regularly update the platforms with new features and services.
 
-Adjust internal processes based on user feedback and analytics.
+Adjust internal processes based on user feedback and analytics. The proposal essentially aims to make digital platforms the main gateway for engaging with the council, improving efficiency and convenience while still supporting residents who need non-digital access. Implementation typically involves redesigning services, building strong digital infrastructure, promoting adoption, and maintaining inclusivity.
 
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
