@@ -254,7 +254,12 @@ could be used across some range of projects
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* Is the project actively maintained and updated.
+  
 * question 2
+
+* How large and active is the developer community.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
