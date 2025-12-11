@@ -260,3 +260,33 @@ Successful connectivity confirmed.
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+Purpose of the exercise: It’s a reflective prompt. After documenting the practical networking tasks you carried out (like configuring routers, testing LAN/WAN connections, or exploring protocol layers), this section asks you to explain the knowledge or skills gained from those activities. (e.g., understanding how IP addresses and MAC addresses work, or how data moves through protocol layers).
+
+Highlight practical skills (e.g., setting up a LAN, using firewall rules, troubleshooting connectivity).
+
+Note any insights or challenges (e.g., realizing the importance of bandwidth limits, or how switching differs from routing). Earlier in Session 9, the notes explain networking fundamentals—devices, connections, IP/MAC addresses, bandwidth, firewalls, and protocol layers. This reflection section is where you show how those theoretical ideas became clearer through hands‑on exercises and personal research. It ties the practical work back to the learning objectives of the session. How to assign static IP settings (IP address, subnet mask, gateway, DNS).
+
+Importance of correct network settings for successful device communication.
+
+Use of ipconfig and ping for basic network troubleshooting.
+
+2. Connectivity Testing (Ping & Traceroute)
+
+How to verify local and internet connectivity using ping.
+
+How traceroute helps diagnose delays or failures in network paths.
+
+Understanding the meaning of TTL values and hop sequences. LAN Setup in Packet Tracer
+
+Basics of building a physical and logical network topology.
+
+Assigning IPs and ensuring proper cabling and device setup.
+
+Validating successful network communication between devices.
+
+4. ARP and MAC Addressing
+
+How MAC addresses are used in local communication.
+
+How the ARP table is populated and how to view it. Role of ARP in resolving IP addresses to physical hardware addresses. These exercises build foundational skills in networking — helping you understand how devices communicate, how to configure them, and how to troubleshoot basic issues. If you’d like, I can turn this into a short reflection statement or training log.
