@@ -63,7 +63,23 @@ The maximum data transfer rate of a network.
 
 Firewall
 
-Security tool that controls network traffic to protect systems. Networking is all about connecting devices so they can communicate and share resources. It relies on hardware, communication protocols, and structured systems to ensure data moves quickly and reliably. Understanding networking is essential for IT, cybersecurity, cloud computing, and everyday digital communication.
+Security tool that controls network traffic to protect systems. Networking is all about connecting devices so they can communicate and share resources. It relies on hardware, communication protocols, and structured systems to ensure data moves quickly and reliably. Understanding networking is essential for IT, cybersecurity, cloud computing, and everyday digital communication. 
+
+“Network protocol layers” is explained as a way engineers describe how different networking technologies and protocols fit together in a structured stack. The surrounding content highlights a few key points:
+
+Why layers matter: Over the years, many networking technologies have come and gone (like Fibre, ISDN, ADSL, Wi‑Fi, dial‑up modems). To make sense of them, engineers use a layered model where each layer has its own role and protocol. This makes it possible to swap one technology for another at the same layer without breaking the whole system. Physical to application: The stack starts at the physical medium (cables, wireless signals, light) and rises to the application layer (web browsers, file transfers, video, audio). Each layer has its own protocol conventions for formatting and handling data. A well‑designed layered system means applications don’t care whether the computer is connected via Ethernet or Wi‑Fi. Apart from a change in IP address, the higher‑level applications continue to work the same way. The OSI 7‑Layer Model is the most comprehensive framework.
+
+The page simplifies this into 4 layers for teaching purposes, showing the data formats used at each stage.
+
+Higher layers handle end‑to‑end communication between applications, while lower layers move information across subnetworks connected by routers. Application layer: HTTP (web pages), SSH (secure communication), FTP (file transfer), SMTP (email).
+
+Transport layer: TCP (reliable, ordered delivery) and UDP (fast, “fire‑and‑forget” delivery).
+
+Network layer: IP addressing and routing across multiple link segments.
+
+Link layer: Local point‑to‑point communication over a physical medium. protocol layers are a structured way to understand how data moves from physical signals all the way up to user applications, with each layer responsible for a specific part of the communication process.
+
+
 
 
 
