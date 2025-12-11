@@ -160,14 +160,4 @@ Record evidence → maintain a clear log of lab work, commands, and resolved iss
 Apply skills in projects → use Raspberry Pi or virtualization labs to test concepts in real-world scenarios. Plan for growth → identify gaps (e.g., kernel debugging, automation scripts) and set goals to address them.turning learning into mastery: practicing, documenting, applying, and extending your skills so they become reliable tools for both academic assessment and workplace IT modernization.
 
 
-  
-1
-.
 
-1
- 
-
----
-
-
-TBD
