@@ -231,15 +231,15 @@ Map risks to actions Convert political and compliance items into contract requir
     <td>
       <ol>
         <li>idea</li> Political” dimension ensures that the proposal is not just technically feasible but also legally compliant, strategically aligned, and institutionally supported.
-        <li>idea</li>
-        <li>idea</li>
+        <li>IT leaddrship guarantee technical and feasibility and security </li>
+        <li>Improving office experience with upgraded shared equipment</li>
       </ol> 
     </td>
     <td>
       <ol>
         <li>idea</li> refers to the financial trade‑offs, cost structures, and return on investment considerations that determine whether the proposal is viable for the council.
-        <li>idea</li>
-        <li>idea</li>
+        <li>Virtual desktop infrastucture</li>
+        <li>lower support cost</li>
       </ol> 
     </td>
   </tr>
@@ -251,8 +251,8 @@ Map risks to actions Convert political and compliance items into contract requir
     <td>
       <ol>
         <li>idea</li> Employees gain flexibility by not being tied to one desk.
-        <li>idea</li>
-        <li>idea</li>
+        <li>Run short surveys about workspace needs</li>
+        < lit</li>
       </ol> 
     </td>
     <td>
