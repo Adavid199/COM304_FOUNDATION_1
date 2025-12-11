@@ -477,6 +477,99 @@ Without networking, computers would be isolated and far less useful.
 
 Networking connects computers and devices to share data, resources, and services. Networks range from small personal networks to global systems like the Internet, and rely on devices such as routers and switches, as well as protocols like TCP/IP, DNS, and HTTP. Communication follows structured models (OSI, TCP/IP), uses both wired and wireless technologies, and enables everything from web browsing to cloud services and modern communication systems.
 
+Internet History 
+
+
+The history of the Internet is the story of how early military and academic networks evolved into today’s global communication system. It began as a research project, grew through standardization and commercialization, and expanded into the modern world-spanning network that powers communication, business, media, and information exchange. (1950s–1960s)
+Cold War Motivation
+
+The U.S. needed a communication system that could survive disruptions.
+
+ARPANET (1969)
+
+Created by ARPA (Advanced Research Projects Agency).
+
+Connected four universities using packet switching.
+
+First message sent between UCLA and Stanford in 1969.
+Key idea: Break data into packets instead of relying on one continuous line.
+
+Foundation Technologies (1970s)
+Packet Switching
+
+Developed by Paul Baran and Donald Davies.
+Allowed efficient, fault-tolerant communication.
+
+Email Invented (1971)
+
+Ray Tomlinson created the first email system.
+Introduced the @ symbol for addressing.
+
+TCP/IP Protocols (1973–1978)
+
+Developed by Vint Cerf and Bob Kahn.
+Created a universal networking language. Birth of the Modern Internet (1980s)
+1983: ARPANET switches to TCP/IP
+
+Considered the official birth of the Internet.
+
+Domain Name System (DNS) introduced (1984)
+
+Allowed human-readable names (like google.com).
+
+CERFnet, NSFNET, and expansion
+
+Universities formed regional networks.
+The NSFNET backbone replaced ARPANET and grew internationally.
+
+Broadband, Wi-Fi, and Mobile Era (2000s)
+
+Broadband replaced dial-up.
+
+Wi-Fi became standard in homes.
+
+Social networks emerged (Facebook 2004, YouTube 2005, Twitter 2006).
+
+Smartphones revolutionized access (iPhone 2007, Android 2008).
+
+Cloud services began (AWS, Gmail, Dropbox).
+
+The Internet became always-on and mobile. Modern Internet (2010s–Present)
+Social + Cloud + Streaming
+
+Netflix, Spotify, TikTok
+
+Massive cloud platforms (AWS, Azure, Google Cloud)
+
+Remote work, online education, telemedicine
+
+IoT (Internet of Things)
+
+Homes and industries filled with connected devices. High-Speed Innovations
+
+Fibre optics
+
+5G mobile networks
+
+Low-Earth-orbit satellites (Starlink)
+
+AI and Big Data
+
+Internet-scale data fuels machine learning and global services.
+
+The Internet began in the late 1960s as ARPANET, a military-academic experiment in packet-switched networking. It expanded through the development of TCP/IP, DNS, and early email, and became the modern Internet in 1983. The invention of the World Wide Web in 1990 transformed it into a global information system accessible to everyone. With broadband, Wi-Fi, smartphones, cloud computing, and social media, the Internet became the foundation of modern communication, business, entertainment, and global connectivity.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
