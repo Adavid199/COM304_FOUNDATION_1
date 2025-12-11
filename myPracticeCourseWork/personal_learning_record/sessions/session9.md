@@ -196,6 +196,12 @@ Technologies (CILT) was established with initial
 funding from the National Science Foundation in 
 order to provide these mechanisms.
 
+HTTP is the standard protocol for transferring hypermedia documents (HTML, images, JSON, etc.) between clients and servers; it operates at the application layer of the network stack and is the foundation of web communication. HTTP was first proposed by Tim Berners‑Lee in 1989 and has evolved through multiple versions (HTTP/1.0, HTTP/1.1, HTTP/2, and HTTP/3). Each version improves performance, security, or efficiency; for example, HTTP/2 adds multiplexing and header compression, while HTTP/3 runs over QUIC for lower latency and better loss recovery. A typical HTTP exchange follows a simple pattern: a client opens a connection, sends an HTTP request (method, URL, headers, optional body), and the server returns a response (status code, headers, body). HTTP is stateless by design, meaning each request is independent; stateful behavior (sessions, logins) is layered on top using cookies or tokens. Important elements include request methods (GET, POST, PUT, DELETE, PATCH, OPTIONS), status codes (2xx success, 3xx redirection, 4xx client error, 5xx server error), and headers that convey metadata (Content‑Type, Cache‑Control, Authorization). Headers and status codes are central to caching, authentication, and content negotiation. Developers should design APIs and web apps to use appropriate methods and status codes, implement caching and compression, and secure endpoints with TLS and proper authentication.
+
+Users benefit from faster, more reliable pages as servers adopt HTTP/2 and HTTP/3, and from privacy when sites use HTTPS.
+
+Important points: HTTP is application‑layer, stateless, and evolves through versions to improve speed and security. If you want, I can provide a concise example of a raw HTTP GET request and the corresponding response to illustrate the exact message format.  
+
 
 
 
@@ -271,7 +277,7 @@ Importance of correct network settings for successful device communication.
 
 Use of ipconfig and ping for basic network troubleshooting.
 
-2. Connectivity Testing (Ping & Traceroute)
+ Connectivity Testing (Ping & Traceroute)
 
 How to verify local and internet connectivity using ping.
 
@@ -284,8 +290,7 @@ Basics of building a physical and logical network topology.
 Assigning IPs and ensuring proper cabling and device setup.
 
 Validating successful network communication between devices.
-
-4. ARP and MAC Addressing
+. ARP and MAC Addressing
 
 How MAC addresses are used in local communication.
 
