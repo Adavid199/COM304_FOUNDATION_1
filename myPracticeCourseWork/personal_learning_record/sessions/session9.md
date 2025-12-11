@@ -6,11 +6,11 @@
 *What topics were covered in this session*
 
 Introduction to Networking: Networking refers to the process of linking two or more computers or devices so they can communicate and exchange information. Networks allow users to share resources such as files, printers, and internet connections, and enable services like email, video conferencing, and cloud computing. Network enhances efficiency, collaboration, and resource sharing. It supports internet access, telecommunication, cloud computing, online gaming, and enterprise operations. It also ensures data redundancy and backup capabilities across devices.
-Understanding networking lays the foundation for deeper studies in areas like network security, wireless communication, and network administration, making it a crucial skill for IT professionals and everyday technology users. Computers (hosts/servers/workstations): Endpoints that originate or consume traffic. They usually have multiple interfaces (e.g., Wi-Fi, Ethernet).
+Understanding networking lays the foundation for deeper studies in areas like network security, wireless communication, and network administration, making it a crucial skill for IT professionals and everyday technology users. Computers (hosts/servers/workstations): Endpoints that originate or consume traffic. They usually have multiple interfaces (e.g., Wi-Fi, internet).
 
 Routers: Specialized devices that forward packets between subnetworks, ensuring data travels from source to destination. How data travels between devices:
 
-Wired connections (e.g., Ethernet cables)
+Wired connections (e.g., internet cables)
 
 Wireless connections (e.g., Wi-Fi, Bluetooth) LAN (Local Area Network)
 
@@ -81,15 +81,51 @@ Link layer: Local point‑to‑point communication over a physical medium. proto
 
 
 
-
-
-
-
-
-
-
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+*Which class sessions and personal research refers to technology in this proposal. Link to examples.* 
+
+In this proposal  we offer an overview of recent advances in research on net
+worked learning, using the studies reported in the main chapters of the book
+as our primary source. Networked learning is an area which has both practical
+and theoretical importance. It is a rapidly growing area of educational prac
+tice, particularly in higher education and the corporate sector. It is centered on
+some key social, personal and technological challenges of our time. It raises
+issues about learning as a cognitive achievement and as a social practice,
+and about the use of the Internet in the accomplishment of individual and
+collective goals. It raises questions of identity and belonging, conflict and co
+operation, change and continuity. It creates new opportunities for examining
+stubborn problems, and makes visible a number of aspects of learning and
+teaching that are generally rather hard to see, describe and understand. For
+such reasons we claim that the area of networked learning, far from being an
+esoteric corner of educational technology practice, offers a highly productive
+site for advancing research in the learning sciences. Some of the richest examples of networked learning involve interaction with
+online materials and with other people. But, in our view, use of online mate
+rials is not a sufficient characteristic to define networked learning. Human
+human interaction, through computer-mediated communication or CMC, is
+an essential part of networked learning.
+The interactions between people involved in networked learning can be
+synchronous, asynchronous or both. Synchronous interaction requires the in
+teracting parties to be available at the same time – as with the telephone.
+Asynchronous interaction – as with fax or voicemail – allows the interacting
+parties more flexibility in their use of time. E-mail is the best-known example
+of ICT-enabled asynchronous interaction and the various kinds of Web ‘chat’
+represent synchronous interaction. Asynchronous computer conferencing, us
+ing tools such as FirstClass, WebCT or Blackboard, has rapidly become one
+of the most common kinds of ICT-based learning experience for students in
+higher education.
+The interactions in networked learning environments can, in principle,
+be through text, voice, graphics, video, shared workspaces or combinations
+of these forms. However, in mainstream higher education practice, text is
+still the dominant medium and much of the time that students and tutors
+spend in networked learning consists of composing, reading and reflecting
+on electronic texts, such as email messages or entries in text-based computer
+conferences.
+
+https://www.researchgate.net/profile/Shirley-Booth/publication/225984339_Opening_dimensions_of_variation_An_empirical_study_of_learning_in_a_Web-based_discussion/links/00b7d5232dfcf6291d000000/Opening-dimensions-of-variation-An-empirical-study-of-learning-in-a-Web-based-discussion.pdf#page=9
+
+
+
+
 
 
 
