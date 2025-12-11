@@ -125,9 +125,9 @@ accordingly and fast because ‘we can’t switch it off!’. Obtaining correct 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Outdated or legacy IT system</li>
+        <li>Lack of staff cyber awareness</li>
+        <li>Inadequate access controls</li>
       </ol> 
     </td>
   </tr>
@@ -138,16 +138,16 @@ accordingly and fast because ‘we can’t switch it off!’. Obtaining correct 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Strehgthen identiry and access</li>
+        <li>Modeernise network security</li>
+        <li>Improve Endpoint and device protection
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Criminals encrypt system,shut down service, and demand payment</li>
+        <li>Compromise of remote access</li>
+        <li>Weak vpn configuration, stolen login credentials, or increase romote desktop tools</li>
       </ol> 
     </td>
   </tr>
@@ -164,16 +164,16 @@ accordingly and fast because ‘we can’t switch it off!’. Obtaining correct 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Assign a cabinet member or committee with formal responsiblity for cyber resilence</li>
+        <li>Mandate a minimum cyber security standard</li>
+        <li>Integrate cyber security into emergency planning</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Conduct regular cybersecurity training online </li>
+        <li>Network segmentation and accees control</li>
+        <li>Regular sofeware update and patch management</li>
       </ol> 
     </td>
   </tr>
@@ -184,16 +184,16 @@ accordingly and fast because ‘we can’t switch it off!’. Obtaining correct 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Staff awareness and training</li>
+        <li>strong security culture</li>
+        <li>Clear policies and procedure</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Community and vendor engagemen</li>
+        <li>Recognize employees who spot suspicious emails pr reports vulnerabilities</li>
+        <li>Make it easy and safe for staff to report suspicious activity</li>
       </ol> 
     </td>
   </tr>
@@ -203,8 +203,17 @@ accordingly and fast because ‘we can’t switch it off!’. Obtaining correct 
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+How often are our cybersecurity policies reviewed ?
+
 * question 2
+  How do we measure staff awareness and response to simulated attacks?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Proposal 9 (hardening the council’s security stance against cyber crime), based on the surrounding page content:
+
+The proposal is essential because as the council expands digital services and adopts technologies like AI and low‑code platforms, the risk of cyber attacks grows. Measures such as assigning formal responsibility for cyber resilience, mandating minimum security standards, and integrating cybersecurity into emergency planning provide a strong political foundation. Economically, regular training, access control, and patch management reduce vulnerabilities and long‑term costs. Socially, building staff awareness and a strong security culture ensures that human error is minimized. Technologically, engaging vendors, rewarding vigilance, and making reporting easy strengthens resilience. the proposal is well‑aligned with modernization goals: it protects citizen trust, ensures compliance, and supports continuity of services. Its success will depend on consistent policy review, measurable staff awareness, and effective incident response planning. Moving to a digital-first model — where the council website and mobile app become the main gateways for accessing services — is generally a positive and modernising step. It can make services faster, more convenient, and easier for most residents to use, especially those who prefer self-service and 24/7 access. It also helps the council reduce manual administration, improve data accuracy, and streamline internal processes. However, the approach must be implemented carefully. Not all residents have digital skills, confidence, or reliable internet access. Without proper support, there is a risk of digital exclusion, particularly for vulnerable groups. The council would need to maintain alternative channels and offer assistance for those who cannot engage digitally. Strong cybersecurity, regular platform updates, and user-friendly design are also essential to maintain trust and reliability. the proposal aligns with best practice in public-sector digital transformation and has clear potential benefits, but its success relies on thoughtful implementation, accessibility, and ongoing support.
+
+
 
