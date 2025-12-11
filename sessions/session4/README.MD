@@ -360,7 +360,126 @@ macOS – Apple’s desktop operating system.
 
 Android – most common mobile OS.
 
-iOS – iPhone/iPad OS. An operating system is the essential software that manages hardware, runs applications, and provides an interface for users. It handles processes, memory, files, devices, security, and communication between programs and hardware. OS types include batch, multitasking, real-time, distributed, and mobile systems, with well-known examples such as Windows, Linux, macOS, Android, and iOS. Operating systems are the foundation on which all modern computing experiences are built.
+iOS – iPhone/iPad OS
+
+. An operating system is the essential software that manages hardware, runs applications, and provides an interface for users. It handles processes, memory, files, devices, security, and communication between programs and hardware. OS types include batch, multitasking, real-time, distributed, and mobile systems, with well-known examples such as Windows, Linux, macOS, Android, and iOS. Operating systems are the foundation on which all modern computing experiences are built.
+
+
+Sessions 9
+
+I learn about Networking is the practice of connecting computers and devices so they can share data, resources, and services. A network allows communication between devices locally or across the world.
+
+At its core, networking enables everything from email and websites to cloud computing and global communication. A computer network is a collection of interconnected devices (computers, servers, routers, phones, sensors) that communicate using protocols.
+
+Networks allow:
+
+Data sharing
+
+Resource sharing (printers, storage)
+
+Internet access
+
+Communication (messages, voice, video)
+
+Types of Networks
+A. By Size
+1. PAN (Personal Area Network)
+
+Very short range (Bluetooth, AirDrop).
+
+2. LAN (Local Area Network)
+
+Within buildings (home Wi-Fi, office networks).
+
+3. MAN (Metropolitan Area Network)
+
+City-wide networks.
+
+4. WAN (Wide Area Network)
+
+Large geographic areas (the Internet is the largest WAN). By Architecture
+1. Client–Server
+
+Servers provide services → clients request them.
+
+Used in most businesses and websites.
+
+2. Peer-to-Peer (P2P)
+
+Devices share resources directly.
+
+Used in small networks or file-sharing systems. Network Devices
+
+Key hardware used in networking:
+
+Router – Connects networks and directs data.
+
+Switch – Connects devices inside a LAN.
+
+Access Point – Provides wireless (Wi-Fi) connectivity.
+
+Modem – Connects to the Internet through ISP.
+
+Firewall – Controls and protects network traffic. Network Communication Basics
+A. IP Address
+
+A unique identifier for each device on a network.
+
+IPv4: 192.168.1.1
+
+IPv6: longer, modern addressing system.
+
+B. MAC Address
+
+Hardware-level unique address for network interfaces.
+
+C. Ports
+
+Logical endpoints used by applications (e.g., port 80 = web). 
+
+Wired vs. Wireless Networking
+Wired (Ethernet)
+
+Fast
+
+Stable
+
+Secure
+
+Used for desktops, servers
+
+Wireless (Wi-Fi)
+
+Convenient
+
+Supports phones, laptops
+
+Range and interference issues possible
+
+Most modern networks use both. 
+
+Why Networking Matters
+
+Networking is the backbone of modern computing. It enables:
+
+The Internet and web services
+
+Cloud computing
+
+Remote work and communication
+
+Smart home devices and IoT
+
+Business operations and data sharing
+
+Without networking, computers would be isolated and far less useful.
+
+
+Networking connects computers and devices to share data, resources, and services. Networks range from small personal networks to global systems like the Internet, and rely on devices such as routers and switches, as well as protocols like TCP/IP, DNS, and HTTP. Communication follows structured models (OSI, TCP/IP), uses both wired and wireless technologies, and enables everything from web browsing to cloud services and modern communication systems.
+
+
+
+
 
 
 
