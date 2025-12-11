@@ -121,8 +121,8 @@ spend in networked learning consists of composing, reading and reflecting
 on electronic texts, such as email messages or entries in text-based computer
 conferences.
 
-https://www.researchgate.net/profile/Shirley-Booth/publication/225984339_Opening_dimensions_of_variation_An_empirical_study_of_learning_in_a_Web-based_discussion/links/00b7d5232dfcf6291d000000/Opening-dimensions-of-variation-An-empirical-study-of-learning-in-a-Web-based-discussion.pdf#page=9
 
+https://telearn.hal.science/hal-00190608/file/A100_Pea_etal_99_CILT.pdf
 
 
 
