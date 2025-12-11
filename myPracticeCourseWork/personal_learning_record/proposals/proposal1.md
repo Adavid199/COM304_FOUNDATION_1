@@ -141,15 +141,15 @@ Vendor and licensing complexity: Unexpected costs or restrictive vendor terms co
     <td>
       <ol>
         <li>Employees are not tied to desk</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improve collaborations</li>
+        <li>Better space utillization</li>
       </ol> 
     </td>
     <td>
       <ol>
         <li>Cant keep personal posations on desk</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Employees lose personalized setups, keyboad, monitor, software configuration which can slow down work</li>
+        <li>IT management and cost</li>
       </ol> 
     </td>
   </tr>
@@ -161,15 +161,15 @@ Vendor and licensing complexity: Unexpected costs or restrictive vendor terms co
     <td>
       <ol>
         <li>No need for dedicated sapce for each employee</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduced real estate cost hot desking encourage smaller office footprint</li>
+        <li>Smaller hardware footprint contribute to sustainability goals</li>
       </ol> 
     </td>
     <td>
       <ol>
         <li>Potential security threats because employees dont know their desk neighbours</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Data leakage shared device or virtual desktop increase the risk of sensitive data being accessed by unauthorized user if session are not properly isolated or cleaned</li>
+        <li>Risk to share laptop or thin client may be stolen, leading to potential data breaches</li>
       </ol> 
     </td>
   </tr>
