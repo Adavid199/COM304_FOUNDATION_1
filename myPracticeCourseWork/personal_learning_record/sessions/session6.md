@@ -27,8 +27,22 @@ Introduction to operating systems, playing with Linux and Assembler/C on CPUlato
 
 connects theory to practice: linking OS fundamentals, low‑level programming, and cloud/VDI concepts to real workplace IT modernization. This section needs to clearly demonstrate how the data will be gathered and analyzed in a systematic and academically sound manner. Here you need to demonstrate that the conclusions of your research will be both valid and reliable. Common points discussed in the research design and methods section include highlighting the research paradigm, methodologies, intended population or sample to be studied, data collection techniques, and data analysis procedures.Toward the end of this section, you are encouraged to also address ethical considerations and limitations of the research process, but also to explain why you chose your research design and how you are mitigating the identified risks and limitations.
 
+The study of operating systems forms an important and essential 
+part of computer science students’ education [3,4] and as a result 
+many degree level courses offer study modules on the internals of 
+operating systems at introductory and at advanced levels. 
+The author has been responsible for designing and delivering two 
+modules on computer architecture and operating systems at 
+undergraduate degree level for the past seven years. The 
+Permission to make digital or hard copies of all or part of this work for 
+personal or classroom use is granted without fee provided that copies are 
+not made or distributed for profit or commercial advantage and that 
+copies bear this notice and the full citation on the first page. To copy 
+otherwise, or republish, to post on servers or to redistribute to lists, 
+requires prior specific permission and/or a fee. 
 
 
+https://dl.acm.org/doi/pdf/10.1145/2047594.2047650
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
