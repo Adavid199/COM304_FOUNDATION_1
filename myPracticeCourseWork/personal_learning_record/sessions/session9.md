@@ -124,6 +124,78 @@ conferences.
 
 https://telearn.hal.science/hal-00190608/file/A100_Pea_etal_99_CILT.pdf
 
+The National Science Foundation-funded Cen- 
+terfor Innovative Learning Technologies 
+(CILT) is designed to be a national resourcefor 
+stimulating research and development of tech- 
+nology-enabled solutions to critical problems 
+in K-14 science, math, engineering and tech- 
+Sherry HSI 
+Sean Brophy 
+Nancy Songer 
+Federal research and development projects 
+(R&D) have for several decades contributed sub- 
+stantially to our understanding of how to use 
+information technologies to improve learning. 
+New knowledge provided by cognitive, social, 
+and learning scientists, computer scientists, and 
+nology learning. The Center, launched at the 
+end $1997, is organized around four themes 
+identg5ed as areas where research is likely to 
+result in major gains in teaching and learning, 
+and sponsors research across disciplines and 
+institutions in its four themeareas. CILT 
+brings together experts in thefields fcogni- 
+tive science, educational technologies, com- 
+puter science, subject matter learning, and 
+engineering. It engages business through an 
+Industry Alliance Program and is also train- 
+ing postdoctoral students. CILT'sfounding 
+organizations are SR1 International's Center 
+for Technology in Learning, University of Cali- 
+fornia at Berkeley (School $Education and 
+Department of Computer Science), Vanderbil t 
+University's Learning Technology Center, and 
+the Concord Consortium. Through its pro- 
+grams, CILT seeks to reach beyond these orga- 
+nizations to create a web aforganizations, 
+individuals, industries, schooIs,foundations, 
+government agencies, and labs, that is dmoted 
+to the production, sharing and use $new 
+knowledge about how learning technologies 
+can dramatically improve the processes and 
+outcomes of learning and teaching. This paper 
+describes the rationale and operations ofthe 
+Center, andfirst-year progress in d+ning a 
+set of CILT partnership projects with many 
+other institutions that came out $our 
+nntionnl thcme-tcnm workshops. new developments from industry (e.g., compo- 
+nent software, groupware). How can learning 
+technology innovations be fostered and scaled at 
+a national level? How can the engines of change 
+that computers and information networks repre- 
+sent be turned to knowledge networks for fos- 
+tering learning-technology invention, testing, 
+use, refinement, and commercialization? The 
+nation needs an integrated forum for building 
+and sharing the wisdom and insights derived 
+from highly diverse sources-university 
+and 
+think-tank-based researchers, industry groups, 
+and teacher knowledge developed through their 
+own innovations and implementations of learn- 
+ing technologies in their classrooms.  In summary, we need to explore flexible, 
+quick, but thoughtful innovations that solve 
+important educational problems and draw from 
+a wide range of expertise. These innovations 
+need to be winnowed, and the best shepherded 
+through several phases of development and dis- 
+semination, with input from a range of actors and 
+institutions. The Center for Innovative Learning 
+Technologies (CILT) was established with initial 
+funding from the National Science Foundation in 
+order to provide these mechanisms.
+
 
 
 
