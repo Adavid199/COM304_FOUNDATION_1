@@ -252,14 +252,14 @@ Map risks to actions Convert political and compliance items into contract requir
       <ol>
         <li>idea</li> Employees gain flexibility by not being tied to one desk.
         <li>Run short surveys about workspace needs</li>
-        < lit</li>
+        </li>Ask departments what accessories or setups help them work effectively
       </ol> 
     </td>
     <td>
       <ol>
         <li>idea</li> Political” here refers to the external rules, approvals, and governance structures that shape how the council can adopt hot‑desking and cloud desktops — covering procurement, compliance, and stakeholder decision‑making.
-        <li>idea</li>
-        <li>idea</li>
+        <li>staff log in at any hot desk</li>
+        <li>ongoing monthly cost</li>
       </ol> 
     </td>
   </tr>
@@ -287,7 +287,10 @@ What session and endpoint controls prevent data leakage on shared workstations �
 
 
 * question 1
+How will the IT team handle support for shared devices
+
 * question 2
+  What is the process if a hot desk devices fails
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
