@@ -35,6 +35,8 @@ How they make decisions (Boolean logic).
 
 This section helps you later connect these foundational concepts to your proposal work—for example, showing how understanding CPU architecture and memory management underpins technologies like virtualization, cloud desktops, or Raspberry Pi labs.
 
+Visual Studio Code is presented on the page as the recommended Integrated Development Environment (IDE) for editing files from your GitHub repository; the page gives basic setup steps: install the app (Windows instructions are linked), start Visual Studio Code, use File > Open Folder to open your checked‑out repository, and open Markdown files (ending in .md) in the editor. The page also explains how to view rendered Markdown using Control+K V and points to the Visual Studio Code documentation for other Markdown feature.
+
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.
 
