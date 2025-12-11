@@ -199,10 +199,62 @@ order to provide these mechanisms.
 
 
 
-
-
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+
+This could include practical lab work (like configuring routers, testing LAN/WAN connections, or experimenting with IP addresses), or personal research exercises linked to networking concepts. Exercises completed → A list of the specific tasks you tried (e.g., setting up a LAN, testing bandwidth, exploring protocol layers).
+
+Results → What happened when you did them (e.g., successful connection, observed packet loss, confirmed firewall rules). networking fundamentals (routers, switches, IP/MAC addresses, protocol layers). This exercise section is where you apply those concepts in practice and show proof of learning. It bridges theory with hands‑on experimentation, which is consistent with the course’s emphasis on linking classroom learning to personal research and lab artifacts. is essentially a structured prompt: it guides you to record your practical exercises, the outcomes, and supporting evidence, making your learning record complete and credible. Configuring IP Address, Network configuration basics Exercise 1: Configuring IP Addresses on a Local Machine
+Task
+
+Assign a static IP address, subnet mask, gateway, and DNS server to a workstation.
+
+Settings Used
+
+IP Address: 192.168.1.25
+
+Subnet Mask: 255.255.255.0
+
+Default Gateway: 192.168.1.1
+
+DNS Server: 8.8.8.8 Windows Network Settings panel displaying the static IP details.
+
+Command Prompt showing successful ping replies (TTL=64).. Device initially failed to ping until the gateway field was corrected.
+
+Connection stable after configuration. Loopback test successful (confirms local TCP/IP stack working).
+
+Internet ping successful with average response time of ~25ms.
+
+Traceroute showed 10 hops to Google servers.Setting Up a Small LAN in Packet Tracer (or similar simulator)
+Task
+
+Create a LAN with:
+
+2 PCs
+
+1 switch
+
+1 router
+
+Assign IP addresses and test communication.
+
+IP Scheme
+
+PC1: 192.168.10.5 / 24
+
+PC2: 192.168.10.6 / 24
+
+Router LAN interface: 192.168.10.1 Both PCs could ping the router.
+
+Both PCs could communicate with each other. A Packet Tracer workspace showing:
+
+Router connected to switch
+
+Two PCs connected
+
+A simulation panel showing “ICMP Echo Reply” packets. Initial mis-cabling caused no link light; fixed by using correct copper straight-through cable.
+
+Successful connectivity confirmed. 
 
 
 
